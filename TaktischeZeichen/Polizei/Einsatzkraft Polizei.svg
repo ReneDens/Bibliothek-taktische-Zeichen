@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg24"
-   sodipodi:docname="ELW 1.svg"
+   id="svg17"
+   sodipodi:docname="Einsatzkraft Polizei.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata28">
+     id="metadata21">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,17 +35,17 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview26"
+     id="namedview19"
      showgrid="false"
      inkscape:zoom="2.9257812"
-     inkscape:cx="69.724966"
+     inkscape:cx="67.781396"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24" />
+     inkscape:current-layer="svg17" />
   <defs
-     id="defs10">
+     id="defs7">
     <style
        type="text/css"
        id="style2"><![CDATA[
@@ -55,90 +55,23 @@
 			}
 		]]></style>
     <clipPath
-       id="wheels">
-      <rect
-         x="10"
-         y="192"
-         width="236"
-         height="20"
-         id="rect4" />
-    </clipPath>
-    <clipPath
-       id="symbol">
+       id="person">
       <path
-         d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-         id="path7" />
+         d="M64,128 L128,64 L192,128 L128,192 Z"
+         id="path4" />
     </clipPath>
   </defs>
   <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="#FF0000"
-     stroke-width="10"
-     stroke="#FFFFFF"
-     clip-path="url(#symbol)"
-     id="path12" />
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="5"
+     stroke="#000000"
+     fill="#FFFF00"
+     id="path9"
+     style="fill:#13a538;fill-opacity:1" />
   <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
-     stroke-width="1"
-     stroke="#000000"
-     id="path14" />
-  <ellipse
-     cx="40"
-     cy="196"
-     rx="10"
-     ry="10"
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="2"
      stroke="#000000"
      fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse16" />
-  <ellipse
-     cx="216"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse18" />
-  <text
-     font-size="300%"
-     dominant-baseline="central"
-     x="70"
-     y="172"
-     id="text20"
-     style="font-size:300%;font-family:'Roboto Slab Bold';dominant-baseline:central;text-anchor:middle;fill:#ffffff">
-    <tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
-       id="tspan4517">ELW 1</tspan>
-  </text>
-  <text
-     font-family="Roboto Slab Bold"
-     fill="#FFFFFF"
-     text-anchor="end"
-     x="236"
-     y="180"
-     id="text22" />
-  <g
-     transform="matrix(0.97136618,0,0,0.93197604,3.6651291,8.576495)"
-     id="g4491"
-     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path4500"
-       d="m 128,111.5 v 33"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4502"
-       d="m 10,64 118,80.5 v 0"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4504"
-       d="M 128,111.5 246,192 v 0"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+     id="path13" />
 </svg>
