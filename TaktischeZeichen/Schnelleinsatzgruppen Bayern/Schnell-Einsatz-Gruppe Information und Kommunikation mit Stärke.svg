@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg19"
-   sodipodi:docname="Schnell-Einsatz-Gruppe Information und Kommunikation.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Information und Kommunikation mit Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata23">
@@ -39,7 +39,7 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="1.2125776"
-     inkscape:cx="171.29719"
+     inkscape:cx="30.687632"
      inkscape:cy="95.184109"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -73,21 +73,24 @@
      height="124.1171"
      id="rect15"
      style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:4.881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 125.97054,114.05304 v 31.9782"
-     id="path4500"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:4.881;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 9.9400054,68.023812 125.97054,146.03124 v 0"
-     id="path4502"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:4.881;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 125.97054,114.05304 116.03054,78.00742 v 0"
-     id="path4504"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g4498">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4500"
+       d="m 125.97054,114.05304 v 31.9782"
+       style="fill:none;stroke:#000000;stroke-width:4.881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4502"
+       d="M 9.9400054,68.023812 125.97054,146.03124 v 0"
+       style="fill:none;stroke:#000000;stroke-width:4.881;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4504"
+       d="m 125.97054,114.05304 116.03054,78.00742 v 0"
+       style="fill:none;stroke:#000000;stroke-width:4.881;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
   <circle
      cx="128"
      cy="50"

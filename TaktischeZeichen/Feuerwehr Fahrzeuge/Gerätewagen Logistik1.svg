@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg22"
-   sodipodi:docname="Kraftfahrzeug Bundeswehr.svg"
+   id="svg24"
+   sodipodi:docname="Gerätewagen_Logistik_1.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata26">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,15 +35,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview24"
+     id="namedview26"
      showgrid="false"
-     inkscape:zoom="0.921875"
+     inkscape:zoom="2.140625"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
+     inkscape:current-layer="svg24" />
   <defs
      id="defs10">
     <style
@@ -80,19 +80,23 @@
   </defs>
   <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="#996633"
+     fill="#FF0000"
      stroke-width="10"
      stroke="#FFFFFF"
      clip-path="url(#symbol)"
      id="path12" />
-  <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
-     stroke-width="1"
-     stroke="#000000"
-     id="path14" />
   <ellipse
      cx="40"
+     cy="196"
+     rx="10"
+     ry="10"
+     stroke="#000000"
+     fill="none"
+     stroke-width="5"
+     clip-path="url(#wheels)"
+     id="ellipse14" />
+  <ellipse
+     cx="128"
      cy="196"
      rx="10"
      ry="10"
@@ -111,4 +115,23 @@
      stroke-width="5"
      clip-path="url(#wheels)"
      id="ellipse18" />
+  <path
+     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
+     fill="none"
+     stroke-width="1"
+     stroke="#000000"
+     id="path20" />
+  <text
+     style="font-family: 'Roboto Slab'; font-weight: bold; font-size: 300%; text-anchor: middle; dominant-baseline: central;"
+     fill="#FFFFFF"
+     x="128"
+     y="128"
+     id="text22">GW-L1</text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.95364404;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4485"
+     width="232.04761"
+     height="18.723522"
+     x="11.976196"
+     y="169.77647" />
 </svg>

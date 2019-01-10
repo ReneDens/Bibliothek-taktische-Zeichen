@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg22"
-   sodipodi:docname="Kraftfahrzeug Bundeswehr.svg"
+   id="svg19"
+   sodipodi:docname="Abschnittsleiter Feuerwehr.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata26">
+     id="metadata23">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview24"
+     id="namedview21"
      showgrid="false"
      inkscape:zoom="0.921875"
      inkscape:cx="128"
@@ -43,9 +43,9 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
+     inkscape:current-layer="svg19" />
   <defs
-     id="defs10">
+     id="defs7">
     <style
        type="text/css"
        id="style2"><![CDATA[
@@ -63,52 +63,43 @@
     }
 ]]></style>
     <clipPath
-       id="wheels">
-      <rect
-         x="10"
-         y="192"
-         width="236"
-         height="20"
-         id="rect4" />
-    </clipPath>
-    <clipPath
-       id="symbol">
+       id="person">
       <path
-         d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-         id="path7" />
+         d="M64,128 L128,64 L192,128 L128,192 Z"
+         id="path4" />
     </clipPath>
   </defs>
   <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="#996633"
-     stroke-width="10"
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="5"
      stroke="#FFFFFF"
-     clip-path="url(#symbol)"
-     id="path12" />
+     fill="#FF0000"
+     id="path9" />
   <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
-     stroke-width="1"
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="12"
+     stroke="#FFFFFF"
+     fill="#FF0000"
+     clip-path="url(#person)"
+     id="path11" />
+  <rect
+     x="64"
+     y="64"
+     width="128"
+     height="24"
+     fill="#FFFFFF"
+     clip-path="url(#person)"
+     id="rect13" />
+  <text
+     x="128"
+     y="128"
+     style="font-family:'Roboto Slab';font-weight:bold;dominant-baseline:central;text-anchor:middle;font-size:37.33333333px"
+     fill="#FFFFFF"
+     id="text15">FW</text>
+  <path
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="2"
      stroke="#000000"
-     id="path14" />
-  <ellipse
-     cx="40"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
      fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse16" />
-  <ellipse
-     cx="216"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse18" />
+     id="path17" />
 </svg>
