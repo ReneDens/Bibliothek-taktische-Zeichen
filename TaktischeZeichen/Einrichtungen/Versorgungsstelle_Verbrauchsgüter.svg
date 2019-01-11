@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg8"
-   sodipodi:docname="Digitaler Sprechfunk.svg"
+   id="svg13"
+   sodipodi:docname="Versorgungsstelle_Verbrauchsgüter.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata14">
+     id="metadata17">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,8 +24,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,36 +35,48 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview10"
+     id="namedview15"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-7.0508475"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
-  <path
-     d="M10,58 l90,0 l0,56 l56,0 l0,-56 l90,0"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="base">
+      <ellipse
+         cx="128"
+         cy="128"
+         rx="64"
+         ry="64"
+         id="ellipse2" />
+    </clipPath>
+  </defs>
+  <ellipse
+     fill="#FFFF00"
      stroke="#000000"
      stroke-width="5"
-     fill="none"
-     id="path2" />
+     cx="128"
+     cy="128"
+     rx="64"
+     ry="64"
+     id="ellipse7" />
   <path
-     d="M10,128 l236,0"
+     d="M124 145 l0 -40 L110 85 l36 0 l-14 20 l0 40"
      stroke="#000000"
-     stroke-width="5"
+     stroke-width="3"
      fill="none"
-     id="path4" />
-  <path
-     d="M38,138 l30,30 l30,-30 l30,30 l30,-30 l30,30, l30,-30"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path6" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:5"
-     d="M 97.999999,138 128,168 l 30,-30 30,30 30,-30"
-     id="path6-3" />
+     id="path9"
+     style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     x="64"
+     y="160"
+     width="128"
+     height="32"
+     clip-path="url(#base)"
+     id="rect11" />
 </svg>
