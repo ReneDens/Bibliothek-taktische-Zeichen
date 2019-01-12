@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg17"
-   sodipodi:docname="Fachberater San allgemein.svg"
+   sodipodi:docname="Fachberater Wasserrettung.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata21">
@@ -38,7 +38,7 @@
      id="namedview19"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="48.350365"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -84,28 +84,25 @@
      fill="none"
      id="path13" />
   <g
-     transform="matrix(0.46990959,0,0,0.46990959,88.160834,27.60404)"
-     id="g4493"
-     style="stroke-width:6.38420677;stroke-miterlimit:4;stroke-dasharray:none">
-    <g
-       transform="translate(-96.544369,113.26381)"
-       id="g4500"
-       style="stroke-width:6.38420677;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:6.38420677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3780-4-4-8-8"
-         d="m 99.045719,98.870071 c 0,0 -0.264149,-13.32437 9.460921,-13.97747 9.77075,-0.656146 10.3562,7.265035 10.3562,7.265035 0,0 0.30639,6.735827 8.11679,6.735827 7.81038,0 8.37446,-6.67634 8.37446,-6.67634 0,0 1.94572,-7.579966 10.92923,-7.312057 9.87626,0.294533 9.94718,14.049006 9.94718,14.049006" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:6.38420677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3780-4-4-8-8-2"
-         d="m 99.770667,115.2128 c 0,0 -0.264149,-13.32437 9.460923,-13.97747 9.77075,-0.65614 10.3562,7.26504 10.3562,7.26504 0,0 0.30639,6.73582 8.11678,6.73582 7.81039,0 8.37447,-6.67634 8.37447,-6.67634 0,0 1.94572,-7.57996 10.92922,-7.31205 9.87626,0.29453 9.94718,14.049 9.94718,14.049" />
-    </g>
+     id="g4503"
+     transform="matrix(0.66031239,0,0,0.66031239,189.39843,-57.796198)">
+    <rect
+       width="45.939793"
+       height="45.939793"
+       x="140.29897"
+       y="272.11768"
+       transform="rotate(45)"
+       id="rect2985"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       inkscape:connector-curvature="0"
-       id="path4572"
-       d="m 22.017795,253.50006 39.99217,-0.28467 29.7899,-79.05176 29.993205,-0.33947 18.43094,48.90914 29.99321,-0.33946"
-       style="fill:none;stroke:#000000;stroke-width:6.38420677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m -131.96113,260.33576 c 0,0 -0.35558,-17.93679 12.73596,-18.81597 13.15303,-0.88328 13.94115,9.77993 13.94115,9.77993 0,0 0.41245,9.06753 10.926521,9.06753 10.514067,0 11.273407,-8.98745 11.273407,-8.98745 0,0 2.619254,-10.20388 14.712531,-9.84323 13.295069,0.39649 13.39054,18.91227 13.39054,18.91227"
+       id="path3780-4-4-8-8"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m -130.98523,282.33576 c 0,0 -0.35558,-17.93679 12.73596,-18.81597 13.15303,-0.88328 13.94115,9.77993 13.94115,9.77993 0,0 0.41245,9.06753 10.92652,9.06753 10.514067,0 11.273407,-8.98745 11.273407,-8.98745 0,0 2.619254,-10.20388 14.712531,-9.84323 13.295067,0.39649 13.390537,18.91227 13.390537,18.91227"
+       id="path3780-4-4-8-8-2"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
