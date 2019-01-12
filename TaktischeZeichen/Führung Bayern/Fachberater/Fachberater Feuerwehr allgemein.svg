@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg19"
-   sodipodi:docname="Fachberater_THW.svg"
+   sodipodi:docname="Fachberater Feuerwehr allgemein.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata23">
@@ -68,40 +68,53 @@
          d="M64,128 L128,64 L192,128 L128,192 Z"
          id="path4" />
     </clipPath>
+    <clipPath
+       id="person-8">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 64,128 64,-64 64,64 -64,64 z"
+         id="path4-7" />
+    </clipPath>
+    <clipPath
+       id="person-5">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 64,128 64,-64 64,64 -64,64 z"
+         id="path4-9" />
+    </clipPath>
   </defs>
   <path
      d="M64,128 L128,64 L192,128 L128,192 Z"
      stroke-width="5"
      stroke="#FFFFFF"
-     fill="#003399"
+     fill="#FF0000"
      id="path9" />
   <path
      d="M64,128 L128,64 L192,128 L128,192 Z"
      stroke-width="12"
      stroke="#FFFFFF"
-     fill="#003399"
+     fill="#FF0000"
      clip-path="url(#person)"
      id="path11" />
+  <text
+     x="128"
+     y="128"
+     style="font-family:'Roboto Slab';font-weight:bold;dominant-baseline:central;text-anchor:middle;font-size:37.33333333px"
+     fill="#FFFFFF"
+     id="text15">FW</text>
   <rect
+     transform="translate(0,-1.4142136)"
+     style="fill:none;stroke:#ffffff;stroke-width:5"
      x="64"
      y="64"
      width="128"
      height="24"
-     fill="none"
-     stroke-width="5"
-     stroke="#FFFFFF"
-     clip-path="url(#person)"
+     clip-path="url(#person-5)"
      id="rect13" />
   <path
      d="M64,128 L128,64 L192,128 L128,192 Z"
      stroke-width="2"
      stroke="#000000"
      fill="none"
-     id="path15" />
-  <text
-     x="128"
-     y="128"
-     style="font-family:'Roboto Slab';font-weight:bold;dominant-baseline:central;text-anchor:middle;font-size:29.33333333px"
-     fill="#FFFFFF"
-     id="text17">THW</text>
+     id="path17" />
 </svg>

@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg19"
-   sodipodi:docname="Fachberater_THW.svg"
+   sodipodi:docname="Fachberater THW mit Beschriftung.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata23">
@@ -38,8 +38,8 @@
      id="namedview21"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:cx="153.58856"
+     inkscape:cy="8.7764607"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -104,4 +104,38 @@
      style="font-family:'Roboto Slab';font-weight:bold;dominant-baseline:central;text-anchor:middle;font-size:29.33333333px"
      fill="#FFFFFF"
      id="text17">THW</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="127.84766"
+     y="211.69547"
+     id="text4491"><tspan
+       sodipodi:role="line"
+       id="tspan4489"
+       x="127.84766"
+       y="211.69547"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">Fachberater THW</tspan><tspan
+       sodipodi:role="line"
+       x="127.84766"
+       y="241.69547"
+       id="tspan4493"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">Heros OV 86/94</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="45.781021"
+     y="311.59125"
+     id="text4497"><tspan
+       sodipodi:role="line"
+       id="tspan4495"
+       x="45.781021"
+       y="311.59125">Heros OV 86/94</tspan><tspan
+       sodipodi:role="line"
+       x="45.781021"
+       y="344.92459"
+       id="tspan4499">Heros OV 86/95</tspan><tspan
+       sodipodi:role="line"
+       x="45.781021"
+       y="378.2579"
+       id="tspan4501">Heros OV 86/96</tspan></text>
 </svg>
