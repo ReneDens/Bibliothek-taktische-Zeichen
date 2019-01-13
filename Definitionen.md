@@ -19,8 +19,8 @@ Linienbreiten **5px**
 
 
 ## Beschriftungstext unten links:
-Schriftgrösse 30pt
-**X** 22,0
+Schriftgrösse 22pt
+**X** 21,0
 **Y** 75,0
 
 ## Beschriftungstext (Ort) Personen unten rechts
@@ -39,7 +39,9 @@ Wenn Ursprung mittig auf Satzspiegel unten: X 65  Y 112
 
 ### Bei Einheiten
 **Y** 198,0
+linker Punkt **X** 54
 mittlerer Punkt **X** 118
+rechter Punkt **X** 182
 
 ### Bei Personen
 **Y** 202
