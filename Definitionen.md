@@ -50,7 +50,7 @@ rechter Punkt **X** 146
 
 ## Sterne für Zuständigkeitsbereich
 Über Personen
-In Schrift "*" Schriftgrösse
+In Schrift "*" Schriftgrösse 28pt
 Ausrichtung X-mittig, Y-Unterkante-auf-Oberkante
 
 
