@@ -24,3 +24,7 @@ Punkte für Stärke:
 20x20px
 Y 198,0
 mittlerer Punkt X 118
+
+Beschriftungtexte drunter:
+Schriftgrösse 18pt
+Y 38 bei Personenzeichen
