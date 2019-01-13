@@ -73,17 +73,6 @@
      rx="64"
      ry="64"
      id="ellipse9" />
-  <text
-     font-size="300%"
-     dominant-baseline="central"
-     x="128"
-     y="136"
-     id="text11"
-     style="font-size:37.33333333px;font-family:'Roboto Slab Bold';dominant-baseline:central;text-anchor:middle">
-    <tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
-       id="tspan4497">KEZ</tspan>
-  </text>
   <rect
      id="top"
      x="64"
@@ -97,4 +86,15 @@
      stroke="#000000"
      fill="none"
      id="path14" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="127.88541"
+     y="143.16667"
+     id="text4491"><tspan
+       sodipodi:role="line"
+       id="tspan4489"
+       x="127.88541"
+       y="143.16667"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">KEZ</tspan></text>
 </svg>

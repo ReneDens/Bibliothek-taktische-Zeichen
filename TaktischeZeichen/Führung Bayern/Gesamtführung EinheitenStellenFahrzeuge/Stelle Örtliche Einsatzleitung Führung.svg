@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg14"
-   sodipodi:docname="ÖEL.svg"
+   sodipodi:docname="Stelle Örtliche Einsatzleitung Führung.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata18">
@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-7.0508475"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -82,7 +82,8 @@
      text-anchor="middle"
      x="128"
      y="128"
-     id="text12">
+     id="text12"
+     style="font-size:42.66666667px">
     <tspan
        style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        id="tspan4495">ÖEL</tspan>

@@ -38,7 +38,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="2.9257812"
-     inkscape:cx="69.724966"
+     inkscape:cx="11.449932"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -78,11 +78,10 @@
      clip-path="url(#symbol)"
      id="path12" />
   <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
-     stroke-width="1"
-     stroke="#000000"
-     id="path14" />
+     d="M 9.9996598,64.174834 V 192.00034 H 246.00034 V 64.174834 Q 128,100.12576 9.9996598,64.174834 Z"
+     id="path14"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.99931961" />
   <ellipse
      cx="40"
      cy="196"
