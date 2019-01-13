@@ -35,11 +35,23 @@ Wenn Ursprung mittig auf Satzspiegel unten: X 65  Y 112
 
 
 ## Punkte für Stärke:
-**Y** 198,0
 **S** 20x20px
 
 ### Bei Einheiten
+**Y** 198,0
 mittlerer Punkt **X** 118
+
+### Bei Personen
+**Y** 202
+linker Punkt **X** 90
+mittlerer Punkt **X** 118
+rechter Punkt **X** 146
+
+
+## Sterne für Zuständigkeitsbereich
+Über Personen
+In Schrift "*" Schriftgrösse
+Ausrichtung X-mittig, Y-Unterkante-auf-Oberkante
 
 
 ## Beschriftungtexte drunter:
