@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg21"
-   sodipodi:docname="Wasserrettungszug WW.svg"
+   sodipodi:docname="Einsatztauchtrupp DLRG.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata25">
@@ -122,27 +122,15 @@
      id="ellipse13"
      r="10"
      style="fill:#000000" />
-  <circle
-     cx="64"
-     cy="48"
-     id="ellipse13-2"
-     r="10"
-     style="fill:#000000" />
-  <circle
-     cx="192"
-     cy="48"
-     id="ellipse13-7"
-     r="10"
-     style="fill:#000000" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="221.46107"
-     y="136.15329"
+     x="235.07422"
+     y="181"
      id="text4497"><tspan
        sodipodi:role="line"
        id="tspan4495"
-       x="221.46107"
-       y="136.15329"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:end;text-anchor:end">WW</tspan></text>
+       x="235.07422"
+       y="181"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:end;text-anchor:end">DLRG</tspan></text>
 </svg>

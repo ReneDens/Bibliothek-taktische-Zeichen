@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg21"
-   sodipodi:docname="Schnell-Einsatz-Gruppe Wasserrettung.svg"
+   sodipodi:docname="Wasserrettungszug WW.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata25">
@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="2.140625"
-     inkscape:cx="128"
+     inkscape:zoom="3.3984375"
+     inkscape:cx="136.46715"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -93,28 +93,6 @@
      x="22"
      y="70"
      id="text19" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DIN 1451 Std';-inkscape-font-specification:'DIN 1451 Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="20.610176"
-     y="103.05085"
-     id="text4504"><tspan
-       sodipodi:role="line"
-       id="tspan4502"
-       x="20.610176"
-       y="103.05085"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DIN 1451 Std';-inkscape-font-specification:'DIN 1451 Std';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     x="127.48047"
-     y="226.29272"
-     id="text4504-6"><tspan
-       sodipodi:role="line"
-       id="tspan4502-8"
-       x="127.48047"
-       y="226.29272"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">SEG WR</tspan></text>
   <g
      transform="matrix(0.7428514,0,0,0.7428514,83.261013,80.018404)"
      id="g4487"
@@ -144,4 +122,27 @@
      id="ellipse13"
      r="10"
      style="fill:#000000" />
+  <circle
+     cx="64"
+     cy="48"
+     id="ellipse13-2"
+     r="10"
+     style="fill:#000000" />
+  <circle
+     cx="192"
+     cy="48"
+     id="ellipse13-7"
+     r="10"
+     style="fill:#000000" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="235.07422"
+     y="181"
+     id="text4497"><tspan
+       sodipodi:role="line"
+       id="tspan4495"
+       x="235.07422"
+       y="181"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:end;text-anchor:end">WW</tspan></text>
 </svg>

@@ -4,35 +4,43 @@ Alle Texte **Roboto Slab Bold**
 
 Linienbreiten **5px**
 
+## Grössen und Positionen Grundsymbol
 
-## Einheit bzw Fahrzeug:
+### Einheit bzw Fahrzeug:
 **X** 9,5
 **Y** 63,5
 **B** 237,0
 **H** 129,0
 
-## Personenraute
+### Personenraute
 **X** 60 (60,464)
 **Y** 60 (60,464)
 **B** 135
 **H** 135
 
 
-## Beschriftungstext unten links:
+## Beschriftungen Einheit/Fahrzeug
+
+### Beschriftungstext unten links:
 Schriftgrösse 22pt
 **X** 21,0
 **Y** 75,0
+
+### Beschriftungstext unten rechts:
+Schriftgrösse 22pt
+**X** 21,0
+**Y** 75,0
+
+### Beschriftung mittig:
+Schriftgrösse 32pt
+Satz X-mittig - Y-mittig
+Wenn Ursprung mittig auf Satzspiegel unten: X 65  Y 112
+
 
 ## Beschriftungstext (Ort) Personen unten rechts
 Schriftgrösse 16pt
 **X** 195
 **Y** 60
-
-## Beschriftung mittig:
-Schriftgrösse 32pt
-Satz X-mittig - Y-mittig
-Wenn Ursprung mittig auf Satzspiegel unten: X 65  Y 112
-
 
 ## Punkte für Stärke:
 **S** 20x20px
