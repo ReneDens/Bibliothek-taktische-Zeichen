@@ -23,6 +23,11 @@ Schriftgrösse 30pt
 **X** 22,0
 **Y** 75,0
 
+## Beschriftungstext (Ort) Personen unten rechts
+Schriftgrösse 16pt
+**X** 195
+**Y** 60
+
 ## Beschriftung mittig:
 Schriftgrösse 32pt
 Satz X-mittig - Y-mittig

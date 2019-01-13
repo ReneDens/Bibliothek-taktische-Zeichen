@@ -38,8 +38,8 @@
      id="namedview21"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="153.58856"
-     inkscape:cy="8.7764607"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -76,50 +76,47 @@
      fill="#003399"
      id="path9" />
   <path
-     d="M64,128 L128,64 L192,128 L128,192 Z"
-     stroke-width="12"
-     stroke="#FFFFFF"
-     fill="#003399"
+     style="fill:#003399;stroke:#ffffff;stroke-width:12"
+     inkscape:connector-curvature="0"
+     d="m 64,128 64,-64 64,64 -64,64 z"
      clip-path="url(#person)"
-     id="path11" />
+     id="path11"
+     transform="translate(-2.1217864,2.1217864)" />
   <rect
+     style="fill:none;stroke:#ffffff;stroke-width:5"
      x="64"
      y="64"
      width="128"
      height="24"
-     fill="none"
-     stroke-width="5"
-     stroke="#FFFFFF"
      clip-path="url(#person)"
-     id="rect13" />
+     id="rect13"
+     transform="translate(-2.1217864,2.1217864)" />
   <path
-     d="M64,128 L128,64 L192,128 L128,192 Z"
-     stroke-width="2"
-     stroke="#000000"
-     fill="none"
+     style="fill:none;stroke:#000000;stroke-width:2"
+     inkscape:connector-curvature="0"
+     d="m 61.878214,130.12179 63.999996,-64.000004 64,64.000004 -64,64 z"
      id="path15" />
   <text
-     x="128"
-     y="128"
-     style="font-family:'Roboto Slab';font-weight:bold;dominant-baseline:central;text-anchor:middle;font-size:29.33333333px"
-     fill="#FFFFFF"
+     x="125.87821"
+     y="130.12178"
+     style="font-weight:bold;font-size:29.33333397px;font-family:'Roboto Slab';dominant-baseline:central;text-anchor:middle;fill:#ffffff"
      id="text17">THW</text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="127.84766"
-     y="211.69547"
+     y="216.53516"
      id="text4491"><tspan
        sodipodi:role="line"
-       id="tspan4489"
        x="127.84766"
-       y="211.69547"
+       y="216.53516"
+       id="tspan4493"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">Fachberater THW</tspan><tspan
        sodipodi:role="line"
        x="127.84766"
-       y="241.69547"
-       id="tspan4493"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">Heros OV 86/94</tspan></text>
+       y="246.53516"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle"
+       id="tspan4498">Heros OV 86/94</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -138,4 +135,15 @@
        x="45.781021"
        y="378.2579"
        id="tspan4501">Heros OV 86/96</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="194.21484"
+     y="195.75391"
+     id="text4502"><tspan
+       sodipodi:role="line"
+       id="tspan4500"
+       x="194.21484"
+       y="195.75391"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">OV</tspan></text>
 </svg>
