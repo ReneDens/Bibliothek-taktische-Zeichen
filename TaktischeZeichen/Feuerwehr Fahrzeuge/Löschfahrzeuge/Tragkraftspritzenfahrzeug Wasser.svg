@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg28"
-   sodipodi:docname="HLF.svg"
+   sodipodi:docname="Tragkraftspritzenfahrzeug Wasser.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata32">
@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-7.0508475"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -88,16 +88,6 @@
      clip-path="url(#wheels)"
      id="ellipse14" />
   <ellipse
-     cx="128"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse16" />
-  <ellipse
      cx="216"
      cy="196"
      rx="10"
@@ -121,23 +111,20 @@
      id="path22" />
   <text
      font-family="Roboto Slab Bold"
-     font-size="150%"
-     fill="#FFFFFF"
-     dominant-baseline="text-before-edge"
-     text-anchor="start"
-     x="22"
-     y="95"
-     id="text24"
-     style="-inkscape-font-specification:'bb Bold, ';font-family:'bb Bold';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">
-    <tspan
-       style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-       id="tspan4510">HLF</tspan>
-  </text>
-  <text
-     font-family="Roboto Slab Bold"
      fill="#FFFFFF"
      text-anchor="end"
      x="236"
      y="180"
      id="text26" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="21.197916"
+     y="179.20964"
+     id="text4497"><tspan
+       sodipodi:role="line"
+       id="tspan4495"
+       x="21.197916"
+       y="179.20964"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">TSF-W</tspan></text>
 </svg>

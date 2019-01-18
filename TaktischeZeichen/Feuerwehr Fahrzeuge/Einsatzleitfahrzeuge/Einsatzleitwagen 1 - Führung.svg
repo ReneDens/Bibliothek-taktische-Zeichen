@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg36"
-   sodipodi:docname="Gerätewagen Gefahrgut.svg"
+   id="svg24"
+   sodipodi:docname="ELW 1 - Führung.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata40">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,15 +35,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview38"
+     id="namedview26"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-7.0508475"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg36" />
+     inkscape:current-layer="svg24" />
   <defs
      id="defs10">
     <style
@@ -69,6 +69,13 @@
          d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
          id="path7" />
     </clipPath>
+    <clipPath
+       id="symbol-5">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 10,64 V 192 H 246 V 64 Q 128,100 10,64 Z"
+         id="path7-1" />
+    </clipPath>
   </defs>
   <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
@@ -77,42 +84,12 @@
      stroke="#FFFFFF"
      clip-path="url(#symbol)"
      id="path12" />
-  <g
-     transform="scale(0.5), translate(220,128)"
-     id="g20">
-    <ellipse
-       cx="78"
-       cy="112"
-       rx="20"
-       ry="20"
-       fill="#FFFFFF"
-       id="ellipse14" />
-    <ellipse
-       cx="178"
-       cy="112"
-       rx="20"
-       ry="20"
-       fill="#FFFFFF"
-       id="ellipse16" />
-    <path
-       d="M88 102 L188 174 M168 102 L68 174"
-       stroke="#FFFFFF"
-       stroke-width="10"
-       fill="none"
-       id="path18" />
-  </g>
-  <text
-     font-size="150%"
-     dominant-baseline="central"
-     text-anchor="left"
-     x="20"
-     y="146"
-     id="text22"
-     style="font-size:150%;font-family:'Roboto Slab Bold';dominant-baseline:central;fill:#ffffff">
-    <tspan
-       style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-       id="tspan4517">GW-G</tspan>
-  </text>
+  <path
+     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
+     fill="none"
+     stroke-width="1"
+     stroke="#000000"
+     id="path14" />
   <ellipse
      cx="40"
      cy="196"
@@ -122,17 +99,7 @@
      fill="none"
      stroke-width="5"
      clip-path="url(#wheels)"
-     id="ellipse24" />
-  <ellipse
-     cx="128"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse26" />
+     id="ellipse16" />
   <ellipse
      cx="216"
      cy="196"
@@ -142,27 +109,51 @@
      fill="none"
      stroke-width="5"
      clip-path="url(#wheels)"
-     id="ellipse28" />
-  <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
-     stroke-width="1"
-     stroke="#000000"
-     id="path30" />
-  <text
-     font-family="Roboto Slab Bold"
-     font-size="300%"
-     fill="#FFFFFF"
-     dominant-baseline="central"
-     text-anchor="middle"
-     x="128"
-     y="128"
-     id="text32" />
+     id="ellipse18" />
   <text
      font-family="Roboto Slab Bold"
      fill="#FFFFFF"
      text-anchor="end"
      x="236"
      y="180"
-     id="text34" />
+     id="text22" />
+  <g
+     transform="matrix(0.97136618,0,0,0.93197604,3.6651291,8.576495)"
+     id="g4491"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4500"
+       d="m 128,111.5 v 33"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4502"
+       d="m 10,64 118,80.5 v 0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4504"
+       d="M 128,111.5 246,192 v 0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="20.197916"
+     y="181"
+     id="text4499"><tspan
+       sodipodi:role="line"
+       x="20.197916"
+       y="181"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff"
+       id="tspan4498">ELW 1</tspan></text>
+  <path
+     transform="matrix(0.99152542,0,0,0.99152542,1.0847462,3.7711878)"
+     inkscape:connector-curvature="0"
+     d="M 10,64 V 85.999999 H 246 V 64 C 167.33333,88 88.666667,88 10,64 Z"
+     clip-path="url(#symbol-5)"
+     id="path12-8"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="ccccc" />
 </svg>

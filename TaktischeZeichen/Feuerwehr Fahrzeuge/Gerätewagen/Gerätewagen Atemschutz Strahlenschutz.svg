@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg24"
-   sodipodi:docname="Gerätewagen_Logistik.svg"
+   sodipodi:docname="Gerätewagen Atemschutz Strahlenschutz.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata28">
@@ -38,7 +38,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="128"
+     inkscape:cx="-31.29927"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -96,16 +96,6 @@
      clip-path="url(#wheels)"
      id="ellipse14" />
   <ellipse
-     cx="128"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse16" />
-  <ellipse
      cx="216"
      cy="196"
      rx="10"
@@ -122,16 +112,14 @@
      stroke="#000000"
      id="path20" />
   <text
-     style="font-family: 'Roboto Slab'; font-weight: bold; font-size: 300%; text-anchor: middle; dominant-baseline: central;"
-     fill="#FFFFFF"
-     x="128"
-     y="128"
-     id="text22">GW-L</text>
-  <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.95364404;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4485"
-     width="232.04761"
-     height="18.723522"
-     x="11.976196"
-     y="169.77647" />
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="59.979164"
+     y="143.07903"
+     id="text4507"><tspan
+       sodipodi:role="line"
+       id="tspan4505"
+       x="59.979164"
+       y="143.07903"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">GW AS</tspan></text>
 </svg>
