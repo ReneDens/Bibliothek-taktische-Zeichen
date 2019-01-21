@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg21"
-   sodipodi:docname="Wechselladerfahrzeug.svg"
+   sodipodi:docname="Wechselladerfahrzeug geländegängig.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata25">
@@ -60,20 +60,20 @@
          d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
          id="path4" />
     </clipPath>
+    <clipPath
+       id="symbol-8">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 10,64 V 192 H 246 V 64 Q 128,100 10,64 Z"
+         id="path7" />
+    </clipPath>
   </defs>
   <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="#FFFFFF"
-     stroke-width="10"
-     stroke="#000000"
-     clip-path="url(#symbol)"
-     id="path9" />
-  <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
+     id="path11"
      stroke-width="1"
      stroke="#000000"
-     id="path11" />
+     fill="none" />
   <g
      id="g4506">
     <path
@@ -110,4 +110,22 @@
        cy="209"
        cx="216" />
   </g>
+  <path
+     transform="translate(0,-0.08764696)"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000;stroke:#ffffff;stroke-width:10"
+     d="M 10,64 V 192 H 246 V 64 Q 128,100 10,64 Z"
+     clip-path="url(#symbol-8)"
+     id="path12" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="20.584635"
+     y="118"
+     id="text4495"><tspan
+       sodipodi:role="line"
+       id="tspan4493"
+       x="20.584635"
+       y="118"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">WLF</tspan></text>
 </svg>

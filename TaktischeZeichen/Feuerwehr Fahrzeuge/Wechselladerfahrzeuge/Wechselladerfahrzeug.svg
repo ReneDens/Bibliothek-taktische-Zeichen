@@ -60,54 +60,42 @@
          d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
          id="path4" />
     </clipPath>
+    <clipPath
+       id="symbol-8">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 10,64 V 192 H 246 V 64 Q 128,100 10,64 Z"
+         id="path7" />
+    </clipPath>
   </defs>
   <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="#FFFFFF"
-     stroke-width="10"
-     stroke="#000000"
-     clip-path="url(#symbol)"
-     id="path9" />
-  <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
+     id="path11"
      stroke-width="1"
      stroke="#000000"
-     id="path11" />
-  <g
-     id="g4506">
-    <path
-       id="path13"
-       stroke="#000000"
-       stroke-width="5"
-       fill="none"
-       d="M3,63 L3,199 L247,199" />
-    <ellipse
-       id="ellipse15"
-       stroke-width="5"
-       fill="none"
-       stroke="#000000"
-       ry="10"
-       rx="10"
-       cy="209"
-       cx="40" />
-    <ellipse
-       id="ellipse17"
-       stroke-width="5"
-       fill="none"
-       stroke="#000000"
-       ry="10"
-       rx="10"
-       cy="209"
-       cx="128" />
-    <ellipse
-       id="ellipse19"
-       stroke-width="5"
-       fill="none"
-       stroke="#000000"
-       ry="10"
-       rx="10"
-       cy="209"
-       cx="216" />
-  </g>
+     fill="none" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="M 3,63 V 199 H 247"
+     id="path13" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:5"
+     r="10"
+     cx="40"
+     cy="209"
+     id="ellipse15" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:5"
+     r="10"
+     cx="216"
+     cy="209"
+     id="ellipse19" />
+  <path
+     transform="translate(0,-0.08764696)"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000;stroke:#ffffff;stroke-width:10"
+     d="M 10,64 V 192 H 246 V 64 Q 128,100 10,64 Z"
+     clip-path="url(#symbol-8)"
+     id="path12" />
 </svg>
