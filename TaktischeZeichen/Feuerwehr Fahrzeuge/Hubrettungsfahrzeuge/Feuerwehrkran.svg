@@ -37,9 +37,9 @@
      inkscape:window-height="715"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="2.140625"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:zoom="1.5136505"
+     inkscape:cx="112.05337"
+     inkscape:cy="151.36323"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -119,4 +119,32 @@
      x="236"
      y="180"
      id="text24" />
+  <g
+     id="g4516"
+     transform="translate(160,87.87726)"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1">
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4488"
+       d="M 2.5,103.12274 V 23.122743 l 27.5,0.0079"
+       style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cssc"
+       inkscape:connector-curvature="0"
+       id="path4509"
+       d="m 27.500125,20.641853 c 0.01141,4.018781 1.673102,8.018937 4.908725,10.779253 5.872651,5.009959 14.966022,4.287359 19.975049,-1.586392 2.24788,-2.635951 3.33031,-5.919501 3.32233,-9.192861"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="19.979166"
+     y="181"
+     id="text4520"><tspan
+       sodipodi:role="line"
+       id="tspan4518"
+       x="19.979166"
+       y="181"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">FwK</tspan></text>
 </svg>
