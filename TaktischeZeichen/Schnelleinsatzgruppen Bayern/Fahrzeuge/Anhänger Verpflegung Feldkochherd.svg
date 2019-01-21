@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg26"
-   sodipodi:docname="Fahrzeug Verpflegung.svg"
+   id="svg22"
+   sodipodi:docname="Anhänger Verpflegung Feldkochherd.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata30">
+     id="metadata26">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,15 +35,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview28"
+     id="namedview24"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="48.350365"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
+     inkscape:current-layer="svg22" />
   <defs
      id="defs10">
     <style
@@ -83,34 +83,30 @@
      stroke-width="1"
      stroke="#000000"
      id="path14" />
-  <ellipse
-     cx="40"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse16" />
-  <ellipse
-     cx="216"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse18" />
+  <rect
+     x="0"
+     y="120.5"
+     width="10"
+     height="15"
+     id="rect16" />
   <text
      font-family="Roboto Slab Bold"
-     fill="#000000"
+     font-size="300%"
+     fill=""
+     dominant-baseline="central"
+     text-anchor="middle"
+     x="128"
+     y="128"
+     id="text18" />
+  <text
+     font-family="Roboto Slab Bold"
+     fill=""
      text-anchor="end"
      x="236"
      y="180"
-     id="text24" />
+     id="text20" />
   <g
+     transform="translate(9.9210137e-7,-0.01574519)"
      id="g4495">
     <path
        sodipodi:nodetypes="ccc"
@@ -124,4 +120,15 @@
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="20.197916"
+     y="118"
+     id="text4515"><tspan
+       sodipodi:role="line"
+       id="tspan4513"
+       x="20.197916"
+       y="118"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">FKH</tspan></text>
 </svg>
