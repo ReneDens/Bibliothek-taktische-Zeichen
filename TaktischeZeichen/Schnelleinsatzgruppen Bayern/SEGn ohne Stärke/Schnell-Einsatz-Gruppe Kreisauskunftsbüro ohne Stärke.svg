@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg23"
-   sodipodi:docname="Löschzug - Werksfeuerwehr.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Kreisauskunftsbüro ohne Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata27">
@@ -43,7 +43,11 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg23" />
+     inkscape:current-layer="svg23">
+    <inkscape:grid
+       type="xygrid"
+       id="grid846" />
+  </sodipodi:namedview>
   <defs
      id="defs7">
     <style
@@ -69,9 +73,9 @@
      y="64"
      width="236"
      height="128"
-     stroke="#FFFFFF"
+     fill="#FFFFFF"
+     stroke="#000000"
      stroke-width="10"
-     fill="#FF0000"
      clip-path="url(#symbol)"
      id="rect9" />
   <rect
@@ -79,42 +83,51 @@
      y="64"
      width="236"
      height="128"
+     fill="none"
      stroke="#000000"
      stroke-width="1"
-     fill="none"
      id="rect11" />
-  <ellipse
-     cx="128"
-     cy="48"
-     rx="10"
-     ry="10"
-     fill="#000000"
-     id="ellipse13" />
-  <ellipse
-     cx="64"
-     cy="48"
-     rx="10"
-     ry="10"
-     fill="#000000"
-     id="ellipse15" />
-  <ellipse
-     cx="192"
-     cy="48"
-     rx="10"
-     ry="10"
-     fill="#000000"
-     id="ellipse17" />
-  <path
-     d="M11 128 L245 128 M156 128 L241 69 M156 128 L241 187"
-     stroke="#FFFFFF"
-     stroke-width="10"
-     fill="none"
-     id="path19" />
+  <!-- Texte -->
   <text
-     x="20.584635"
-     y="96"
-     alignment-baseline="before-edge"
-     font-size="200%"
-     id="text21"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">WF</text>
+     font-size="300%"
+     fill="#000000"
+     font-family="Roboto Slab Bold"
+     dominant-baseline="central"
+     text-anchor="middle"
+     x="128"
+     y="128"
+     id="text17" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="88.871094"
+     y="141.27083"
+     id="text4502"><tspan
+       sodipodi:role="line"
+       id="tspan4500"
+       x="88.871094"
+       y="141.27083"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">KAB</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="48.320312"
+     y="224.41679"
+     id="text4502-8"><tspan
+       sodipodi:role="line"
+       id="tspan4500-2"
+       x="48.320312"
+       y="224.41679"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG KAB</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="19.610678"
+     y="95.699219"
+     id="text4494"><tspan
+       sodipodi:role="line"
+       id="tspan4492"
+       x="19.610678"
+       y="95.699219"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG</tspan></text>
 </svg>

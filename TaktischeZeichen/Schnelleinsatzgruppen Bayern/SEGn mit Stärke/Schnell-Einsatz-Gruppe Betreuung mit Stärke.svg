@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg25"
-   sodipodi:docname="Schnell-Einsatz-Gruppe Betreuung.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Betreuung mit Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata29">
@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview27"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-192"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -124,14 +124,11 @@
      id="path21" />
   <text
      font-size="200%"
-     fill="#000000"
-     font-family="Roboto Slab Bold"
      dominant-baseline="bottom"
-     text-anchor="middle"
-     x="128"
-     y="180"
+     x="47.569012"
+     y="95.699219"
      id="text23"
-     style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:37.33333333px;">SEG</text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-anchor:middle;fill:#000000">SEG</text>
   <text
      font-size="200%"
      dominant-baseline="bottom"

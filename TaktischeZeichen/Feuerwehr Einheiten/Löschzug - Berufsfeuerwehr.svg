@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-7.0508475"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -111,14 +111,14 @@
      fill="none"
      id="path19" />
   <text
-     x="22"
-     y="92"
+     x="20.197916"
+     y="96"
      alignment-baseline="before-edge"
      font-size="200%"
      id="text21"
-     style="font-size:200%;font-family:'Roboto Slab Bold';fill:#ffffff">
+     style="font-size:29.33333397px;font-family:'Roboto Slab Bold';fill:#ffffff">
     <tspan
-       style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
        id="tspan4504">BF</tspan>
   </text>
 </svg>

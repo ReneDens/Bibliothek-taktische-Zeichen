@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg23"
-   sodipodi:docname="Schnell-Einsatz-Gruppe KAB.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Kreisauskunftsbüro mit Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata27">
@@ -36,10 +36,10 @@
      inkscape:window-width="1366"
      inkscape:window-height="715"
      id="namedview25"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="113.94439"
-     inkscape:cy="123.3644"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -131,4 +131,15 @@
        x="48.320312"
        y="224.41679"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG KAB</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="19.610678"
+     y="95.699219"
+     id="text4494"><tspan
+       sodipodi:role="line"
+       id="tspan4492"
+       x="19.610678"
+       y="95.699219"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG</tspan></text>
 </svg>

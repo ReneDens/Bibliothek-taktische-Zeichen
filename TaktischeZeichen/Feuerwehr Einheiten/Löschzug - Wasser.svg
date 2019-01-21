@@ -37,9 +37,9 @@
      inkscape:window-height="715"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="97.557135"
-     inkscape:cy="128"
+     inkscape:zoom="4.28125"
+     inkscape:cx="78.22234"
+     inkscape:cy="141.11024"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -111,14 +111,14 @@
      fill="none"
      id="path19" />
   <text
-     x="22"
-     y="92"
-     alignment-baseline="before-edge"
-     font-size="200%"
-     id="text21"
-     style="font-size:200%;font-family:'Roboto Slab Bold';fill:#ffffff">
-    <tspan
-       style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-       id="tspan4504">W</tspan>
-  </text>
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="20.584635"
+     y="96"
+     id="text4494"><tspan
+       sodipodi:role="line"
+       id="tspan4492"
+       x="20.584635"
+       y="96"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">W</tspan></text>
 </svg>

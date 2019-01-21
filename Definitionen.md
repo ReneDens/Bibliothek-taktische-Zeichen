@@ -26,9 +26,20 @@ Schriftgrösse 22pt
 **X** 21,0
 **Y** 75,0
 
-### Beschriftungstext unten rechts:
+### Beschriftungstext oben links Fahrzeug:
 Schriftgrösse 22pt
 **X** 21,0
+**Y** 138,0
+
+### Beschriftungstext oben links Einheit:
+Schriftgrösse 22pt
+**X** 21,0
+**Y** 160,0
+
+
+### Beschriftungstext unten rechts:
+Schriftgrösse 22pt
+**X** xx,0
 **Y** 75,0
 
 ### Beschriftung mittig:
