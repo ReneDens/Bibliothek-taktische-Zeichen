@@ -4,6 +4,33 @@ Alle Texte **Roboto Slab Bold**
 
 Linienbreiten **5px**
 
+## Farben
+
+### Grundfarben
+weiss: ffffffff
+schwarz: 000000ff
+rot: ff0000ff
+gelb: ffff00ff
+gruen: 13a538ff (Polizei)
+olivbraun: 996633ff (Bundeswehr)
+blau: 003399ff (THW)
+orange: df6711ff (Regie)
+
+orange: 255, 160, 0
+braun: 153, 102, 51
+lila 255, 0, 255
+
+### Farbkombinationen bei Symbolen
+Organisation | Rahmen- und Schriftfarbe | Grundfarbe
+-------- | -------- | --------
+Feuerwehr | weiss | rot
+THW | weiss | THW-blau
+HiOrg | schwarz | weiss
+Führung | schwarz | gelb
+Regie/Sonstige | schwarz | orange
+Bundeswehr | schwarz | oliv
+Polizei | schwarz | grün
+
 ## Grössen und Positionen Grundsymbol
 
 ### Einheit bzw Fahrzeug:

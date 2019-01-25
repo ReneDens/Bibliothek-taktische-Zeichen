@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg16"
-   sodipodi:docname="Integrierte Leitstelle.svg"
+   sodipodi:docname="Leitstelle.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata20">
@@ -72,7 +72,8 @@
      cy="128"
      rx="64"
      ry="64"
-     id="ellipse9" />
+     id="ellipse9"
+     style="fill:#ffff00" />
   <rect
      id="top"
      x="64"
@@ -89,12 +90,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="128.0625"
+     x="95.1875"
      y="143.15625"
      id="text4491"><tspan
        sodipodi:role="line"
        id="tspan4489"
-       x="128.0625"
+       x="95.1875"
        y="143.15625"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">ILS</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">ILS</tspan></text>
 </svg>
