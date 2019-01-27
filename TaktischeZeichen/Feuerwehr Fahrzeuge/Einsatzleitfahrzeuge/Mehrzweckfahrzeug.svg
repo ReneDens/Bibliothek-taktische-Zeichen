@@ -10,17 +10,18 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg28"
-   sodipodi:docname="Trockentanklöschfahrzeug.svg"
+   id="svg24"
+   sodipodi:docname="Mehrzweckfahrzeug.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata32">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +36,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview30"
+     id="namedview26"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="48.350365"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg24" />
   <defs
      id="defs10">
     <style
@@ -69,6 +70,13 @@
          d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
          id="path7" />
     </clipPath>
+    <clipPath
+       id="symbol-5">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 10,64 V 192 H 246 V 64 Q 128,100 10,64 Z"
+         id="path7-1" />
+    </clipPath>
   </defs>
   <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
@@ -77,6 +85,12 @@
      stroke="#FFFFFF"
      clip-path="url(#symbol)"
      id="path12" />
+  <path
+     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
+     fill="none"
+     stroke-width="1"
+     stroke="#000000"
+     id="path14" />
   <ellipse
      cx="40"
      cy="196"
@@ -86,7 +100,7 @@
      fill="none"
      stroke-width="5"
      clip-path="url(#wheels)"
-     id="ellipse14" />
+     id="ellipse16" />
   <ellipse
      cx="216"
      cy="196"
@@ -97,34 +111,22 @@
      stroke-width="5"
      clip-path="url(#wheels)"
      id="ellipse18" />
-  <path
-     d="M10,128 L246,128 M156,128 l85,59 M156,128 L245,65"
-     fill="none"
-     stroke-width="5"
-     stroke="#FFFFFF"
-     id="path20" />
-  <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
-     stroke-width="1"
-     stroke="#000000"
-     id="path22" />
   <text
      font-family="Roboto Slab Bold"
      fill="#FFFFFF"
      text-anchor="end"
      x="236"
      y="180"
-     id="text26" />
+     id="text22" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="20.427084"
-     y="180.69922"
-     id="text4497"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="81.885414"
+     y="143.07903"
+     id="text4499"><tspan
        sodipodi:role="line"
-       id="tspan4495"
-       x="20.427084"
-       y="180.69922"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">TroTLF</tspan></text>
+       x="81.885414"
+       y="143.07903"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff"
+       id="tspan4498">MZF</tspan></text>
 </svg>

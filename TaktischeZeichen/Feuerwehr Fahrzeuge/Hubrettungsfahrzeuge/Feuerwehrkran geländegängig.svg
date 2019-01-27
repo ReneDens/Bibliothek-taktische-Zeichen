@@ -10,17 +10,18 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg28"
-   sodipodi:docname="Trockentanklöschfahrzeug.svg"
+   id="svg26"
+   sodipodi:docname="Feuerwehrkran geländegängig.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata32">
+     id="metadata30">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +36,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview30"
+     id="namedview28"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="48.350365"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg26" />
   <defs
      id="defs10">
     <style
@@ -69,6 +70,15 @@
          d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
          id="path7" />
     </clipPath>
+    <clipPath
+       id="wheels-1">
+      <rect
+         x="10"
+         y="192"
+         width="236"
+         height="20"
+         id="rect4-2" />
+    </clipPath>
   </defs>
   <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
@@ -86,7 +96,7 @@
      fill="none"
      stroke-width="5"
      clip-path="url(#wheels)"
-     id="ellipse14" />
+     id="ellipse16" />
   <ellipse
      cx="216"
      cy="196"
@@ -98,33 +108,61 @@
      clip-path="url(#wheels)"
      id="ellipse18" />
   <path
-     d="M10,128 L246,128 M156,128 l85,59 M156,128 L245,65"
-     fill="none"
-     stroke-width="5"
-     stroke="#FFFFFF"
-     id="path20" />
-  <path
      d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
      fill="none"
      stroke-width="1"
      stroke="#000000"
-     id="path22" />
+     id="path20" />
+  <text
+     font-family="Roboto Slab Bold"
+     font-size="300%"
+     fill="#FFFFFF"
+     dominant-baseline="central"
+     text-anchor="middle"
+     x="128"
+     y="128"
+     id="text22" />
   <text
      font-family="Roboto Slab Bold"
      fill="#FFFFFF"
      text-anchor="end"
      x="236"
      y="180"
-     id="text26" />
+     id="text24" />
+  <g
+     id="g4516"
+     transform="translate(160,87.87726)"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1">
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4488"
+       d="M 2.5,103.12274 V 23.122743 l 27.5,0.0079"
+       style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cssc"
+       inkscape:connector-curvature="0"
+       id="path4509"
+       d="m 27.500125,20.641853 c 0.01141,4.018781 1.673102,8.018937 4.908725,10.779253 5.872651,5.009959 14.966022,4.287359 19.975049,-1.586392 2.24788,-2.635951 3.33031,-5.919501 3.32233,-9.192861"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="20.427084"
-     y="180.69922"
-     id="text4497"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="19.979166"
+     y="181"
+     id="text4520"><tspan
        sodipodi:role="line"
-       id="tspan4495"
-       x="20.427084"
-       y="180.69922"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">TroTLF</tspan></text>
+       id="tspan4518"
+       x="19.979166"
+       y="181"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff">FwK</tspan></text>
+  <circle
+     transform="translate(87.999996)"
+     r="10"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     cx="40"
+     cy="196"
+     clip-path="url(#wheels-1)"
+     id="ellipse16-0" />
 </svg>
