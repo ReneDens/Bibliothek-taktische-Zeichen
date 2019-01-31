@@ -105,5 +105,6 @@ Ausrichtung X-mittig, Y-Unterkante-auf-Oberkante
 ## Beschriftungtexte drunter:
 Schriftgrösse 18pt   
 **Y**: 38 bei Personenzeichen   
+**Y**: 24 bei Fahrzeugzeichen   
 
 
