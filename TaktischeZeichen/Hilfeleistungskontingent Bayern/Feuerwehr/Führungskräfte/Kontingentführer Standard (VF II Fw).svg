@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg29"
-   sodipodi:docname="Dekontaminationsgruppe - Personen.svg"
+   id="svg25"
+   sodipodi:docname="Kontingentführer Standard (VF II Fw).svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata33">
+     id="metadata29">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,15 +35,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview31"
+     id="namedview27"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-42.742483"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg29" />
+     inkscape:current-layer="svg25" />
   <defs
      id="defs7">
     <style
@@ -55,91 +55,55 @@
 			}
 		]]></style>
     <clipPath
-       id="symbol">
-      <rect
-         x="10"
-         y="64"
-         width="236"
-         height="128"
-         id="rect4" />
+       id="person">
+      <path
+         d="M64,128 L128,64 L192,128 L128,192 Z"
+         id="path4" />
     </clipPath>
   </defs>
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
+  <path
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="5"
      stroke="#FFFFFF"
-     stroke-width="10"
      fill="#FF0000"
-     clip-path="url(#symbol)"
-     id="rect9" />
+     id="path9" />
+  <path
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="12"
+     stroke="#FFFFFF"
+     fill="#FF0000"
+     clip-path="url(#person)"
+     id="path11" />
   <rect
-     x="10"
+     x="64"
      y="64"
-     width="236"
-     height="128"
-     stroke="#000000"
-     stroke-width="1"
-     fill="none"
-     id="rect11" />
-  <ellipse
-     cx="64"
-     cy="48"
-     rx="10"
-     ry="10"
-     fill="#000000"
-     id="ellipse13" />
-  <ellipse
-     cx="192"
-     cy="48"
-     rx="10"
-     ry="10"
-     fill="#000000"
-     id="ellipse15" />
-  <g
-     id="g4500">
-    <path
-       id="path17"
-       fill="none"
-       stroke-width="10"
-       stroke="#FFFFFF"
-       d="M88 92 L188 164 M168 92 L68 164" />
-    <path
-       id="path19"
-       transform="rotate(-10,188,164)"
-       fill="#FFFFFF"
-       d="M185,161 m7,7 l-15,0 m15,0 l0,-15 l-15,15 Z" />
-    <path
-       id="path21"
-       transform="rotate(10,68,164)"
-       fill="#FFFFFF"
-       d="M71,161 m-7,7 l15,0 l-15,-15 Z" />
-    <ellipse
-       id="ellipse23"
-       fill="#FFFFFF"
-       ry="20"
-       rx="20"
-       cy="102"
-       cx="78" />
-    <ellipse
-       id="ellipse25"
-       fill="#FFFFFF"
-       ry="20"
-       rx="20"
-       cy="102"
-       cx="178" />
-  </g>
-  <text
-     font-family="Roboto Slab Bold"
-     font-size="200%"
+     width="128"
+     height="24"
      fill="#FFFFFF"
-     x="128"
-     text-anchor="middle"
-     y="182"
-     id="text27">
-    <tspan
-       style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-       id="tspan4510">P</tspan>
-  </text>
+     clip-path="url(#person)"
+     id="rect15" />
+  <path
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="2"
+     stroke="#000000"
+     fill="none"
+     id="path23" />
+  <g
+     transform="translate(-3.8146973e-6,-4)"
+     id="g4490">
+    <line
+       id="line11-8"
+       y2="31"
+       x2="123.99999"
+       y1="58"
+       x1="123.99999"
+       style="stroke:#000000;stroke-width:5" />
+    <line
+       id="line13"
+       y2="31"
+       x2="132.00002"
+       y1="58"
+       x1="132.00002"
+       style="stroke:#000000;stroke-width:5" />
+  </g>
 </svg>

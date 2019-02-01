@@ -80,20 +80,36 @@ Schriftgrösse 16pt
 **X**: 195   
 **Y**: 60   
 
-## Punkte für Stärke:
+## Stärkeangaben
+
+### Punkte für Stärke:
 **S**: 20x20px   
 
-### Bei Einheiten
+#### Punkte bei Einheiten
 **Y**: 198,0   
 linker Punkt **X**: 54   
 mittlerer Punkt **X**: 118   
 rechter Punkt **X**: 182   
 
-### Bei Personen
+#### Punkte bei Personen
 **Y**: 202   
 linker Punkt **X**: 90   
 mittlerer Punkt **X**: 118   
 rechter Punkt **X**: 146   
+
+### Striche für Stärke
+**B**: 5px   
+**H**: 27px   
+
+#### Striche bei Einheiten
+**Y**: 198,0   
+Ausrichtung X-mittig-mittig
+Abstände linke Kante zu linke Kante: 8px   
+
+#### Striche bei Personen
+**Y**: 202,0   
+Ausrichtung X-mittig-mittig
+Abstände linke Kante zu linke Kante: 8px
 
 
 ## Sterne für Zuständigkeitsbereich

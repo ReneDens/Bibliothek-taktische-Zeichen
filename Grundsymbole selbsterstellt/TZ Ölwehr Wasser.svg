@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="256"
+   height="256"
+   id="svg19"
+   sodipodi:docname="TZ Ölwehr Wasser.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="symbol">
+      <rect
+         x="10"
+         y="64"
+         width="236"
+         height="128"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     id="g4510"
+     transform="translate(118.18978,13.039354)"
+     style="fill:none;stroke:#000000;stroke-opacity:1">
+    <path
+       d="m -19.143952,135.17438 c 0,0 -0.264149,-13.32437 9.4609235,-13.97747 9.77074751,-0.65615 10.3561991,7.26503 10.3561991,7.26503 0,0 0.30639129,6.73583 8.1167836,6.73583 7.8103898,0 8.3744658,-6.67634 8.3744658,-6.67634 0,0 1.945717,-7.57997 10.929225,-7.31206 9.87626,0.29454 9.947181,14.04901 9.947181,14.04901"
+       id="path3780-4-4-8-8"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m -18.419004,151.51711 c 0,0 -0.264149,-13.32437 9.4609235,-13.97747 9.77074745,-0.65615 10.356199,7.26503 10.356199,7.26503 0,0 0.3063913,6.73583 8.1167837,6.73583 7.8103898,0 8.3744658,-6.67634 8.3744658,-6.67634 0,0 1.945717,-7.57997 10.929225,-7.31206 9.876259,0.29454 9.947179,14.04901 9.947179,14.04901"
+       id="path3780-4-4-8-8-2"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     d="M 110.85714,93.205861 153.71428,124.063 M 145.14286,93.205861 102.28571,124.063"
+     id="path17"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 152.22484,123.02008 m 3.47537,2.43348 -6.33091,1.11631 m 6.33091,-1.11631 -1.11631,-6.3309 -5.2146,7.44721 z"
+     id="path19"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;stroke-width:0.42857143;fill-opacity:1" />
+  <path
+     d="m 103.77516,123.02008 m -3.47537,2.43348 6.33091,1.11631 -5.2146,-7.44721 z"
+     id="path21"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;stroke-width:0.42857143;fill-opacity:1" />
+  <circle
+     cx="106.57143"
+     cy="97.491577"
+     id="ellipse23"
+     r="8.5714283"
+     style="fill:#000000;stroke-width:0.42857143;fill-opacity:1" />
+  <circle
+     cx="149.42857"
+     cy="97.491577"
+     id="ellipse25"
+     r="8.5714283"
+     style="fill:#000000;stroke-width:0.42857143;fill-opacity:1" />
+</svg>
