@@ -97,6 +97,14 @@ linker Punkt **X**: 90
 mittlerer Punkt **X**: 118   
 rechter Punkt **X**: 146   
 
+##### Punkte für Zugtruppführer
+Punkt für Trupp siehe oben.   
+Zugpunkte:   
+**S**: 10x10px   
+linker Punkt **X**: 109   
+mittlerer Punkt **X**: 123   
+rechter Punkt **X**: 137   
+
 ### Striche für Stärke
 **B**: 5px   
 **H**: 27px   

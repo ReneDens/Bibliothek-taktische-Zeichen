@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg27"
-   sodipodi:docname="Zugtruppführer.svg"
+   id="svg19"
+   sodipodi:docname="Zugtruppführer Wasserrettung.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata31">
+     id="metadata23">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,15 +35,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview29"
+     id="namedview21"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="128"
+     inkscape:cx="92.779706"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg27" />
+     inkscape:current-layer="svg19" />
   <defs
      id="defs7">
     <style
@@ -64,69 +64,72 @@
   <path
      d="M64,128 L128,64 L192,128 L128,192 Z"
      stroke-width="5"
-     stroke="#FFFFFF"
-     fill="#003399"
+     stroke="#000000"
+     fill="#FFFFFF"
      id="path9" />
-  <path
-     d="M64,128 L128,64 L192,128 L128,192 Z"
-     stroke-width="12"
-     stroke="#FFFFFF"
-     fill="#003399"
-     clip-path="url(#person)"
-     id="path11" />
   <rect
      x="64"
      y="64"
      width="128"
      height="24"
-     fill="#FFFFFF"
-     clip-path="url(#person)"
-     id="rect13" />
-  <ellipse
-     cx="128"
-     cy="44"
-     rx="10"
-     ry="10"
      fill="#000000"
-     id="ellipse15" />
-  <g
-     id="g4496">
-    <ellipse
-       id="ellipse17"
-       fill="#FFFFFF"
-       ry="5"
-       rx="5"
-       cy="100"
-       cx="114" />
-    <ellipse
-       id="ellipse19"
-       fill="#FFFFFF"
-       ry="5"
-       rx="5"
-       cy="100"
-       cx="128" />
-    <ellipse
-       id="ellipse21"
-       fill="#FFFFFF"
-       ry="5"
-       rx="5"
-       cy="100"
-       cx="142" />
-  </g>
+     clip-path="url(#person)"
+     id="rect11" />
   <path
      d="M64,128 L128,64 L192,128 L128,192 Z"
      stroke-width="2"
      stroke="#000000"
      fill="none"
-     id="path23" />
-  <text
-     x="128"
-     y="128"
-     font-family="Roboto Slab Bold"
-     font-size="300%"
-     dominant-baseline="central"
-     fill="#FFFFFF"
-     text-anchor="middle"
-     id="text25"
-     style="-inkscape-font-specification:'Roboto Slab Bold';font-family:'Roboto Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:37.33333333px;">TZ</text>
+     id="path15" />
+  <g
+     id="g4503"
+     transform="matrix(0.57777334,0,0,0.57777334,181.72372,-28.071672)"
+     style="stroke-width:6.92313004;stroke-miterlimit:4;stroke-dasharray:none">
+    <rect
+       width="45.939793"
+       height="45.939793"
+       x="140.29897"
+       y="272.11768"
+       transform="rotate(45)"
+       id="rect2985"
+       style="fill:none;stroke:#000000;stroke-width:6.92313004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m -131.96113,260.33576 c 0,0 -0.35558,-17.93679 12.73596,-18.81597 13.15303,-0.88328 13.94115,9.77993 13.94115,9.77993 0,0 0.41245,9.06753 10.926521,9.06753 10.514067,0 11.273407,-8.98745 11.273407,-8.98745 0,0 2.619254,-10.20388 14.712531,-9.84323 13.295069,0.39649 13.39054,18.91227 13.39054,18.91227"
+       id="path3780-4-4-8-8"
+       style="fill:none;stroke:#000000;stroke-width:6.92313004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m -130.98523,282.33576 c 0,0 -0.35558,-17.93679 12.73596,-18.81597 13.15303,-0.88328 13.94115,9.77993 13.94115,9.77993 0,0 0.41245,9.06753 10.92652,9.06753 10.514067,0 11.273407,-8.98745 11.273407,-8.98745 0,0 2.619254,-10.20388 14.712531,-9.84323 13.295067,0.39649 13.390537,18.91227 13.390537,18.91227"
+       id="path3780-4-4-8-8-2"
+       style="fill:none;stroke:#000000;stroke-width:6.92313004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g4496"
+     style="fill:#000000">
+    <circle
+       style="fill:#000000"
+       r="5"
+       id="ellipse17"
+       cy="100"
+       cx="114" />
+    <circle
+       style="fill:#000000"
+       r="5"
+       id="ellipse19"
+       cy="100"
+       cx="128" />
+    <circle
+       style="fill:#000000"
+       r="5"
+       id="ellipse21"
+       cy="100"
+       cx="142" />
+  </g>
+  <circle
+     r="10"
+     style="fill:#000000"
+     cx="128"
+     cy="44"
+     id="ellipse15" />
 </svg>
