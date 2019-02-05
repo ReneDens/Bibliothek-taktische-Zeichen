@@ -38,7 +38,7 @@
      id="namedview25"
      showgrid="false"
      inkscape:zoom="2.140625"
-     inkscape:cx="48.350365"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -101,23 +101,23 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle"
        id="tspan4511">AL Luft </tspan></text>
   <g
-     id="g4505"
-     transform="matrix(0.45112784,0,0,0.45112784,70.255637,70.069546)"
-     style="stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1">
+     id="g4501"
+     transform="matrix(0.44316783,0,0,0.44316783,-7.8099138,33.123851)"
+     style="stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#ffffff;stroke-opacity:1">
     <path
        id="path2"
-       d="m 128,76.75 v 100 m -32.000002,0 H 160"
-       style="fill:none;stroke:#ffffff;stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 306.45255,162.23905 v 100 m -32,0 h 64"
+       style="fill:none;stroke:#ffffff;stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
-       id="path4-8"
-       d="m 138,90.75 h 44 a 10,10 0 0 1 0,20 h -44 a 10,10 0 0 1 0,-20 z" />
+       id="path4-9"
+       d="m 316.45255,176.23905 h 44.00001 a 10,10 0 0 1 0,20 h -44.00001 a 10,10 0 0 1 0,-20 z" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path6"
-       d="M 73.999998,90.75 H 118 a 10,10 0 0 1 0,20 H 73.999998 a 10,10 0 0 1 0,-20 z" />
+       d="m 252.45255,176.23905 h 44 a 10,10 0 0 1 0,20 h -44 a 10,10 0 0 1 0,-20 z" />
   </g>
 </svg>

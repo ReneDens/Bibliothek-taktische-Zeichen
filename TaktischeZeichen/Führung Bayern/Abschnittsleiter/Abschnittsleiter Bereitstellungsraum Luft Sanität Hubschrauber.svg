@@ -10,11 +10,11 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg13"
-   sodipodi:docname="Bereitstellungsraum Luft.svg"
+   id="svg19"
+   sodipodi:docname="Abschnittsleiter Bereitstellungsraum Luft Sanität.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata17">
+     id="metadata23">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,15 +35,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview15"
+     id="namedview21"
      showgrid="false"
-     inkscape:zoom="3.3984375"
-     inkscape:cx="137.95722"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="svg19" />
   <defs
      id="defs7">
     <style
@@ -55,42 +55,72 @@
 			}
 		]]></style>
     <clipPath
-       id="base">
-      <ellipse
-         cx="128"
-         cy="128"
-         rx="64"
-         ry="64"
-         id="ellipse4" />
+       id="person">
+      <path
+         d="M64,128 L128,64 L192,128 L128,192 Z"
+         id="path4" />
     </clipPath>
   </defs>
-  <ellipse
-     fill="#FFFF00"
-     stroke="#000000"
+  <path
+     d="M64,128 L128,64 L192,128 L128,192 Z"
      stroke-width="5"
-     cx="128"
-     cy="128"
-     rx="64"
-     ry="64"
-     id="ellipse9" />
+     stroke="#000000"
+     fill="#FFFFFF"
+     id="path9" />
+  <rect
+     x="64"
+     y="64"
+     width="128"
+     height="24"
+     fill="#000000"
+     clip-path="url(#person)"
+     id="rect11" />
+  <path
+     d="M64,128 L128,64 L192,128 L128,192 Z"
+     stroke-width="2"
+     stroke="#000000"
+     fill="none"
+     id="path15" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DIN 1451 Std';-inkscape-font-specification:'DIN 1451 Std';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="127.51953"
+     y="217.75391"
+     id="text4502"><tspan
+       sodipodi:role="line"
+       x="127.51953"
+       y="217.75391"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle"
+       id="tspan4508">AL BR Luft</tspan></text>
   <g
-     id="g4501"
-     transform="matrix(0.75187975,0,0,0.75187975,-56.95896,-8.8169415)"
-     style="stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       id="path2"
-       d="m 245.9954,130.30402 v 100 m -32,0 h 64"
-       style="fill:none;stroke:#000000;stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0"
-       id="path4"
-       d="m 255.9954,144.30402 h 44 a 10,10 0 0 1 0,20 h -44 a 10,10 0 0 1 0,-20 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:6.64999962;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0"
-       id="path6"
-       d="m 191.9954,144.30402 h 44 a 10,10 0 0 1 0,20 h -44 a 10,10 0 0 1 0,-20 z" />
+     id="g4514"
+     transform="matrix(0.45112782,0,0,0.45112782,86.904562,16.515451)"
+     style="stroke-width:6.6500001;stroke-miterlimit:4;stroke-dasharray:none">
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:6.6500001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse9"
+       cy="247.12408"
+       cx="91.094887"
+       r="64" />
+    <g
+       style="stroke-width:9.82722282;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.67669172,0,0,0.67669172,-116.27902,102.25368)"
+       id="g4501">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:9.82722282;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 306.45255,162.23905 v 100 m -32,0 h 64"
+         id="path2" />
+      <path
+         d="m 316.45255,176.23905 h 44.00001 a 10,10 0 0 1 0,20 h -44.00001 a 10,10 0 0 1 0,-20 z"
+         id="path4-7"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:9.82722282;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         d="m 252.45255,176.23905 h 44 a 10,10 0 0 1 0,20 h -44 a 10,10 0 0 1 0,-20 z"
+         id="path6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:9.82722282;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

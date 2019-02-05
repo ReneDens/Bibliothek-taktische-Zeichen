@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview19"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="93.498086"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -74,22 +74,24 @@
      ry="64"
      id="ellipse9"
      style="fill:#ffffff" />
-  <path
-     d="M110,162 l36,0 M128,162 l0,-54"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path11" />
-  <path
-     d="M128,108 a5,5 90 0 1 5,-5 l32,0 a5,5 180 0 1 0,10 l-32,0 a5,5 90 0 1 -5,-5 Z"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path13" />
-  <path
-     d="M128,108 a5,5 90 0 0 -5,-5 l-32,0 a5,5 180 0 0 0,10 l32,0 a5,5 90 0 0 5,-5 Z"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path15" />
+  <g
+     id="g4501"
+     transform="matrix(0.67669172,0,0,0.67669172,-79.373907,-16.870408)"
+     style="stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="path2"
+       d="m 306.45255,162.23905 v 100 m -32,0 h 64"
+       style="fill:none;stroke:#000000;stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 316.45255,176.23905 h 44.00001 a 10,10 0 0 1 0,20 h -44.00001 a 10,10 0 0 1 0,-20 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.38888884;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path6"
+       d="m 252.45255,176.23905 h 44 a 10,10 0 0 1 0,20 h -44 a 10,10 0 0 1 0,-20 z" />
+  </g>
 </svg>
