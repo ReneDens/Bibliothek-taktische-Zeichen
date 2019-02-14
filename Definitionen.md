@@ -100,7 +100,8 @@ rechter Punkt **X**: 146
 ##### Punkte für Zugtruppführer
 Punkt für Trupp siehe oben.   
 Zugpunkte:   
-**S**: 10x10px   
+**S**: 10x10px  
+**Y**: 151    
 linker Punkt **X**: 109   
 mittlerer Punkt **X**: 123   
 rechter Punkt **X**: 137   
