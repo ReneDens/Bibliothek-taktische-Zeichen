@@ -10,18 +10,17 @@
    version="1.1"
    width="256"
    height="256"
-   id="svg26"
-   sodipodi:docname="Fahrzeug Bergrettung.svg"
+   id="svg17"
+   sodipodi:docname="Haus Bergrettung.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata30">
+     id="metadata21">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="715"
-     id="namedview28"
+     id="namedview19"
      showgrid="false"
      inkscape:zoom="2.140625"
      inkscape:cx="48.350365"
@@ -44,9 +43,9 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
+     inkscape:current-layer="svg17" />
   <defs
-     id="defs10">
+     id="defs7">
     <style
        type="text/css"
        id="style2"><![CDATA[
@@ -56,85 +55,50 @@
 			}
 		]]></style>
     <clipPath
-       id="wheels">
-      <rect
-         x="10"
-         y="192"
-         width="236"
-         height="20"
-         id="rect4" />
-    </clipPath>
-    <clipPath
        id="symbol">
       <path
-         d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-         id="path7" />
-    </clipPath>
-    <clipPath
-       id="wheels-6">
-      <rect
-         x="10"
-         y="192"
-         width="236"
-         height="20"
-         id="rect4-0" />
+         d="M10 64 L10 192 L246 192 L246 64 L128 16 L10 64 Z"
+         id="path4" />
     </clipPath>
   </defs>
-  <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="#FFFFFF"
+  <rect
+     x="10"
+     y="64"
+     width="236"
+     height="128"
+     clip-path="url(#symbol)"
+     id="rect9"
      stroke-width="10"
      stroke="#000000"
-     clip-path="url(#symbol)"
-     id="path12" />
+     fill="#FFFFFF" />
   <path
-     d="M10,64 L10,192 L246,192 L246,64 Q128,100 10,64 Z"
-     fill="none"
+     d="M10 64 L128 16 L246 64"
+     stroke="#000000"
+     stroke-width="10"
+     fill="#FFFFFF"
+     clip-path="url(#symbol)"
+     id="path11" />
+  <path
+     d="M10 64 L10 192 L246 192 L246 64 L128 16 L10 64"
+     stroke="#000000"
      stroke-width="1"
-     stroke="#000000"
-     id="path14" />
-  <ellipse
-     cx="40"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
      fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse16" />
-  <ellipse
-     cx="216"
-     cy="196"
-     rx="10"
-     ry="10"
-     stroke="#000000"
-     fill="none"
-     stroke-width="5"
-     clip-path="url(#wheels)"
-     id="ellipse18" />
-  <text
-     font-family="Roboto Slab Bold"
-     fill="#000000"
-     text-anchor="end"
-     x="236"
-     y="180"
-     id="text24" />
+     id="path13" />
   <g
-     transform="matrix(1.0189812,0,0,1.0189812,55.64184,117.06278)"
+     transform="matrix(0.96280344,0,0,0.96280344,59.631039,107.68963)"
      id="g4491"
-     style="stroke-width:4.90686187;stroke-miterlimit:4;stroke-dasharray:none">
+     style="stroke-width:5.25472307;stroke-miterlimit:4;stroke-dasharray:none">
     <g
        id="g4536"
-       style="stroke-width:4.90686187;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke-width:5.25472307;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:4.90686187;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:5.25472307;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 49.560441,59.377042 c 0,-11.0457 -8.95431,-19.999992 -20,-19.999992 -11.0457,0 -20.0000017,8.954292 -20.0000017,19.999992"
          id="path19-8"
          sodipodi:nodetypes="csc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:4.90686187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:5.25472307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 49.560441,59.377042 71.0103,-22.380145"
          id="path4522"
          inkscape:connector-curvature="0"
@@ -144,13 +108,13 @@
        sodipodi:nodetypes="csc"
        id="path19-8-6"
        d="m 92.460159,59.377042 c 0,-11.0457 8.954311,-19.999992 20.000001,-19.999992 11.0457,0 20,8.954292 20,19.999992"
-       style="fill:none;stroke:#000000;stroke-width:4.90686187;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:5.25472307;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4522-7"
        d="M 92.460159,59.377042 71.0103,-22.380145"
-       style="fill:none;stroke:#000000;stroke-width:4.90686187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:5.25472307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
