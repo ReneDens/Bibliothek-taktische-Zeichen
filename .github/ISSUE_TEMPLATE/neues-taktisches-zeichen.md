@@ -7,13 +7,14 @@ assignees: ReneDens
    
 ---
 
-Add new symbol:   
+# Add new symbol:   
 
-Farbschema: (Feuerwehr, THW, HiOrg, Führung, RegieSonstige, Bundeswehr, Polizei)   
-Grundsymbol: (Fahrzeug, Einheit, Person, Sonstiges)   
-Stärke: (ja, nein)   
-Spezifikation: (Text)   
+## Spezifikation   
+**Farbschema:** (Feuerwehr, THW, HiOrg, Führung, RegieSonstige, Bundeswehr, Polizei)   
+**Grundsymbol:** (Fahrzeug, Einheit, Person, Sonstiges)   
+**Stärke:** (ja, nein)   
+**Spezifikation:** (Text)   
 
-Kommentar:    
+**Kommentar:**    
 
 [URL zu einem Beispiel, möglichst als Bild](https://github.com/jonas-koeritz/Taktische-Zeichen)
