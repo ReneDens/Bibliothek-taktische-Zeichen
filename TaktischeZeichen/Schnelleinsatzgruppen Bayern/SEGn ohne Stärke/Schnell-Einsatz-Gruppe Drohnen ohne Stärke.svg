@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg19"
-   sodipodi:docname="Schnell-Einsatz-Gruppe Information und Kommunikation ohne Stärke.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Drohnen ohne Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata23">
@@ -67,7 +67,7 @@
     </clipPath>
   </defs>
   <g
-     id="g4519"
+     id="g4503"
      transform="translate(2.058547,-2.0585556)">
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
@@ -92,27 +92,21 @@
        d="m 125.97054,114.05304 116.03054,78.00742 v 0"
        style="fill:none;stroke:#000000;stroke-width:4.88100004;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       sodipodi:nodetypes="cccsc"
-       id="path19"
-       d="M 212.22085,138.15331 V 93.362912 m 15.20961,-15.209604 c 0,8.40004 -6.80957,15.209604 -15.20961,15.209604 -8.40003,0 -15.20961,-6.809564 -15.20961,-15.209604"
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cc"
-       id="path19-9"
-       d="m 69.585093,166.10885 h -44.7904"
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="ccccscssccscccss"
+       inkscape:connector-curvature="0"
+       id="path5628"
+       d="m 154.73922,96.516605 -24.60583,-9.46508 -0.093,-3.6398 c -0.092,-3.59769 -0.084,-3.63989 0.6562,-3.64289 0.4119,-10e-4 11.70651,2.1596 25.09911,4.80299 l 24.35019,4.80609 24.25493,-4.80299 c 13.34018,-2.64169 24.56958,-4.80299 24.95421,-4.80299 0.6774,0 0.6964,0.115 0.6066,3.64729 l -0.093,3.6473 -24.56792,9.47588 c -13.51238,5.211585 -24.88027,9.467575 -25.262,9.457575 -0.3817,-0.01 -11.76667,-4.27749 -25.29989,-9.483375 z m 74.10727,-15.76047 c -0.2917,0 0.4469,0 0,0 z"
+       style="fill:#000000;stroke-width:0.32807803" />
   </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="53.721355"
+     x="8.904952"
      y="227.61719"
      id="text4502"><tspan
        sodipodi:role="line"
        id="tspan4500"
-       x="53.721355"
+       x="8.904952"
        y="227.61719"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG IuK</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG Drohnen</tspan></text>
 </svg>

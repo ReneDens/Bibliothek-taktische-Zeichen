@@ -74,6 +74,11 @@ Schriftgrösse 32pt
 Satz X-mittig - Y-mittig   
 Wenn Ursprung mittig auf Satzspiegel unten: **X**: 65  **Y**: 112   
 
+### Beschriftungstext unten mittig darunter:
+Schriftgrösse 30pt   
+**X**: xx,0 mittig unter Symbol
+**Y**: 28,0
+
 
 ## Beschriftungstext (Ort) Personen unten rechts
 Schriftgrösse 16pt   
