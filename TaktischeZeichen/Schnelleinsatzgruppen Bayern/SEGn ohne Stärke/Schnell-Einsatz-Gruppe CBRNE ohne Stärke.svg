@@ -37,7 +37,7 @@
      inkscape:window-height="715"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="2.140625"
+     inkscape:zoom="2.1328125"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
@@ -68,25 +68,6 @@
          id="rect4" />
     </clipPath>
   </defs>
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="#FFFFFF"
-     stroke="#000000"
-     stroke-width="10"
-     clip-path="url(#symbol)"
-     id="rect9" />
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="none"
-     stroke="#000000"
-     stroke-width="1"
-     id="rect11" />
   <!-- Texte -->
   <text
      font-size="300%"
@@ -98,59 +79,81 @@
      y="128"
      id="text17" />
   <g
-     id="g4508">
+     id="g4510">
+    <rect
+       id="rect9"
+       clip-path="url(#symbol)"
+       stroke-width="10"
+       stroke="#000000"
+       fill="#FFFFFF"
+       height="128"
+       width="236"
+       y="64"
+       x="10" />
+    <rect
+       id="rect11"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none"
+       height="128"
+       width="236"
+       y="64"
+       x="10" />
     <g
-       transform="translate(125.19708,-126.69722)"
-       id="g844">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-opacity:1"
-         d="m -37.19708,220.67153 100,72 m -20,-72 -100,72"
-         id="path17" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         d="m 59.32755,290.23805 m 8.10919,5.67812 -14.77211,2.60472 m 14.77211,-2.60472 -2.60472,-14.77212 -12.16739,17.37684 z"
-         id="path19" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         d="m -53.721712,290.23805 m -8.109192,5.67812 14.772117,2.60472 -12.167394,-17.37684 z"
-         id="path21" />
-      <circle
-         r="20"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         cx="-47.197079"
-         cy="230.67154"
-         id="ellipse23" />
-      <circle
-         r="20"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         cx="52.802921"
-         cy="230.67154"
-         id="ellipse25" />
-    </g>
-    <text
-       id="text865"
-       y="176"
-       x="114.61068"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
-         y="176"
+       id="g4508">
+      <g
+         id="g844"
+         transform="translate(125.19708,-126.69722)">
+        <path
+           id="path17"
+           d="m -37.19708,220.67153 100,72 m -20,-72 -100,72"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path19"
+           d="m 59.32755,290.23805 m 8.10919,5.67812 -14.77211,2.60472 m 14.77211,-2.60472 -2.60472,-14.77212 -12.16739,17.37684 z"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path21"
+           d="m -53.721712,290.23805 m -8.109192,5.67812 14.772117,2.60472 -12.167394,-17.37684 z"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <circle
+           id="ellipse23"
+           cy="230.67154"
+           cx="-47.197079"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           r="20" />
+        <circle
+           id="ellipse25"
+           cy="230.67154"
+           cx="52.802921"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           r="20" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="114.61068"
-         id="tspan863"
-         sodipodi:role="line">V</tspan></text>
+         y="176"
+         id="text865"><tspan
+           sodipodi:role="line"
+           id="tspan863"
+           x="114.61068"
+           y="176"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">V</tspan></text>
+    </g>
   </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="51.765629"
-     y="224.91971"
+     y="227.61719"
      id="text865-8"><tspan
        sodipodi:role="line"
        id="tspan863-2"
        x="51.765629"
-       y="224.91971"
+       y="227.61719"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG GSG</tspan></text>
 </svg>

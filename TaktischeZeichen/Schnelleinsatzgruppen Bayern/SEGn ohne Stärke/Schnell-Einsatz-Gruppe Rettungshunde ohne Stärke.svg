@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg21"
-   sodipodi:docname="Schnell-Einsatz-Gruppe Rettungshunde mit Stärke.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Rettungshunde ohne Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata25">
@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="2.140625"
-     inkscape:cx="-31.29927"
+     inkscape:zoom="2.1328125"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -64,22 +64,6 @@
          id="rect4" />
     </clipPath>
   </defs>
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="#FFFFFF"
-     stroke="#000000"
-     stroke-width="10"
-     clip-path="url(#symbol)"
-     id="rect9" />
-  <path
-     d="M128,64 l0,128 M10,128 l236,0"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path13" />
   <!-- Texte -->
   <text
      fill="#000000"
@@ -90,76 +74,93 @@
      x="22"
      y="70"
      id="text19" />
-  <g
-     transform="matrix(0.34801941,0,0,0.34801941,116.80784,102.91918)"
-     id="g4727"
-     style="stroke-width:14.36701476;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566"
-       d="M 84.358772,-14.477612 116.81182,-70.693144"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-8"
-       d="M 149.26937,-14.480212 116.81181,-70.693135"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-8-3"
-       d="m 149.26937,-14.480212 -64.910598,0.0026"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-4"
-       d="m 116.81632,41.735322 32.45305,-56.215534"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-8-4"
-       d="M 181.72693,41.73271 149.26937,-14.480212"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-2"
-       d="m 246.63753,41.730098 32.45305,-56.215534"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-8-0-2"
-       d="M 311.54814,41.727486 279.09058,-14.485436"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-2-2"
-       d="M 279.09058,-14.485436 311.54363,-70.70097"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4566-8-3-6"
-       d="m 279.09027,-14.481512 -129.8209,0.0013"
-       style="fill:none;stroke:#000000;stroke-width:14.36701476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DIN 1451 Std';-inkscape-font-specification:'DIN 1451 Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="60.032555"
-     y="223.48981"
+     y="227.61719"
      id="text4504-0"><tspan
        sodipodi:role="line"
        id="tspan4502-4"
        x="60.032555"
-       y="223.48981"
+       y="227.61719"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG RH</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="19.610678"
-     y="95.699219"
-     id="text4505"><tspan
-       sodipodi:role="line"
-       id="tspan4503"
-       x="19.610678"
+  <g
+     id="g4515"
+     transform="translate(-0.5,0.5)">
+    <rect
+       id="rect9"
+       clip-path="url(#symbol)"
+       height="128"
+       width="236"
+       y="64"
+       x="10"
+       style="fill:#ffffff;stroke:#000000;stroke-width:10" />
+    <path
+       id="path13"
+       d="M 128,64 V 192 M 10,128 h 236"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5" />
+    <g
+       style="stroke-width:14.36701488;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4727"
+       transform="matrix(0.34801941,0,0,0.34801941,116.80784,102.91918)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 84.358772,-14.477612 116.81182,-70.693144"
+         id="path4566"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 149.26937,-14.480212 116.81181,-70.693135"
+         id="path4566-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 149.26937,-14.480212 -64.910598,0.0026"
+         id="path4566-8-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 116.81632,41.735322 32.45305,-56.215534"
+         id="path4566-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 181.72693,41.73271 149.26937,-14.480212"
+         id="path4566-8-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 246.63753,41.730098 32.45305,-56.215534"
+         id="path4566-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 311.54814,41.727486 279.09058,-14.485436"
+         id="path4566-8-0-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 279.09058,-14.485436 311.54363,-70.70097"
+         id="path4566-2-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.36701488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 279.09027,-14.481512 -129.8209,0.0013"
+         id="path4566-8-3-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text4505"
        y="95.699219"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG</tspan></text>
+       x="19.610678"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
+         y="95.699219"
+         x="19.610678"
+         id="tspan4503"
+         sodipodi:role="line">SEG</tspan></text>
+  </g>
 </svg>

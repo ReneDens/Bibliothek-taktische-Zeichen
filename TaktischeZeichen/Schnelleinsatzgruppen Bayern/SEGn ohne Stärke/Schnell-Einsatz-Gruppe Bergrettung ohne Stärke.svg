@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg21"
-   sodipodi:docname="Schnell-Einsatz-Gruppe Bergrettung mit Stärke.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe Bergrettung ohne Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata25">
@@ -37,8 +37,8 @@
      inkscape:window-height="715"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="2.140625"
-     inkscape:cx="48.350365"
+     inkscape:zoom="2.1328125"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -64,25 +64,6 @@
          id="rect4" />
     </clipPath>
   </defs>
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="#FFFFFF"
-     stroke="#000000"
-     stroke-width="10"
-     clip-path="url(#symbol)"
-     id="rect9" />
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="none"
-     stroke="#000000"
-     stroke-width="1"
-     id="rect11" />
   <!-- Texte -->
   <text
      fill="#000000"
@@ -97,55 +78,77 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DIN 1451 Std';-inkscape-font-specification:'DIN 1451 Std';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
      x="127.48047"
-     y="226.29272"
+     y="227.61719"
      id="text4504-6"><tspan
        sodipodi:role="line"
        id="tspan4502-8"
        x="127.48047"
-       y="226.29272"
+       y="227.61719"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;text-anchor:middle">SEG BR</tspan></text>
   <g
-     transform="matrix(1.1894062,0,0,1.1894062,43.539909,105.99783)"
-     id="g4491"
-     style="stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none">
+     id="g4507">
+    <rect
+       id="rect9"
+       clip-path="url(#symbol)"
+       stroke-width="10"
+       stroke="#000000"
+       fill="#FFFFFF"
+       height="128"
+       width="236"
+       y="64"
+       x="10" />
+    <rect
+       id="rect11"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none"
+       height="128"
+       width="236"
+       y="64"
+       x="10" />
     <g
-       id="g4536"
-       style="stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4491"
+       transform="matrix(1.1894062,0,0,1.1894062,43.539909,105.99783)">
+      <g
+         style="stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g4536">
+        <path
+           sodipodi:nodetypes="csc"
+           id="path19-8"
+           d="m 49.560441,59.377042 c 0,-11.0457 -8.95431,-19.999992 -20,-19.999992 -11.0457,0 -20.0000017,8.954292 -20.0000017,19.999992"
+           style="fill:none;stroke:#000000;stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4522"
+           d="M 49.560441,59.377042 71.0103,-22.380145"
+           style="fill:none;stroke:#000000;stroke-width:5.88528965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
       <path
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#000000;stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 49.560441,59.377042 c 0,-11.0457 -8.95431,-19.999992 -20,-19.999992 -11.0457,0 -20.0000017,8.954292 -20.0000017,19.999992"
-         id="path19-8"
+         d="m 92.460159,59.377042 c 0,-11.0457 8.954311,-19.999992 20.000001,-19.999992 11.0457,0 20,8.954292 20,19.999992"
+         id="path19-8-6"
          sodipodi:nodetypes="csc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:5.88528965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 49.560441,59.377042 71.0103,-22.380145"
-         id="path4522"
+         d="M 92.460159,59.377042 71.0103,-22.380145"
+         id="path4522-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
-    <path
-       sodipodi:nodetypes="csc"
-       id="path19-8-6"
-       d="m 92.460159,59.377042 c 0,-11.0457 8.954311,-19.999992 20.000001,-19.999992 11.0457,0 20,8.954292 20,19.999992"
-       style="fill:none;stroke:#000000;stroke-width:5.88528965;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4522-7"
-       d="M 92.460159,59.377042 71.0103,-22.380145"
-       style="fill:none;stroke:#000000;stroke-width:5.88528965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="19.610678"
-     y="95.699219"
-     id="text4499"><tspan
-       sodipodi:role="line"
-       id="tspan4497"
-       x="19.610678"
+    <text
+       id="text4499"
        y="95.699219"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG</tspan></text>
+       x="19.610678"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
+         y="95.699219"
+         x="19.610678"
+         id="tspan4497"
+         sodipodi:role="line">SEG</tspan></text>
+  </g>
 </svg>
