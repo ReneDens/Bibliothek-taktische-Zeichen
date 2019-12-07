@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5045"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="TZ Drohne.svg">
+  <defs
+     id="defs5039">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath342">
+      <path
+         d="M 456.91,747.402 233.219,618.258 158.656,747.402 H 92.6016 V 522.52 H 538.586 v 224.882 z"
+         id="path340"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8534429"
+     inkscape:cx="339.84996"
+     inkscape:cy="326.93763"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.23545729"
+       d="m 71.789116,213.10457 -17.659282,-6.79301 -0.06658,-2.61224 c -0.0658,-2.58201 -0.06036,-2.61226 0.470914,-2.61446 0.29562,-0.001 8.401606,1.54995 18.013302,3.44704 l 17.475812,3.44927 17.407438,-3.44704 c 9.57409,-1.89588 17.63328,-3.44705 17.90933,-3.44705 0.48612,0 0.4998,0.0823 0.43532,2.61764 l -0.0666,2.61765 -17.63208,6.80065 c -9.697658,3.74036 -17.856246,6.79479 -18.130205,6.78761 -0.273962,-0.007 -8.444787,-3.0699 -18.157393,-6.80606 z m 53.185814,-11.31112 c -0.20937,0 0.32076,0 0,0 z"
+       id="path5628"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccscssccscccss" />
+  </g>
+</svg>
