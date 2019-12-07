@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg25"
-   sodipodi:docname="Schnell-Einsatz-Gruppe PSNV.svg"
+   sodipodi:docname="Schnell-Einsatz-Gruppe PSNV mit Stärke.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata29">
@@ -37,9 +37,9 @@
      inkscape:window-height="715"
      id="namedview27"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="-22.702243"
-     inkscape:cy="131.43902"
+     inkscape:zoom="2.1328125"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -80,23 +80,26 @@
      x="128"
      y="128"
      id="text17" />
-  <rect
-     x="10"
-     y="64.025772"
-     width="236"
-     height="128"
-     id="rect19"
-     style="fill:#ffffff;stroke:#000000;stroke-width:5" />
-  <path
-     d="M10,192 L128,66 L246,192"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path21" />
+  <g
+     id="g4492"
+     transform="matrix(0.98372617,0,0,0.96934103,2.1220537,3.9381877)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:5"
+       id="rect19"
+       height="128"
+       width="236"
+       y="64.025772"
+       x="10" />
+    <path
+       id="path21"
+       d="M 10,192 128,66 246,192"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5" />
+  </g>
   <text
      font-size="200%"
      dominant-baseline="bottom"
-     x="128"
+     x="127.82937"
      y="180"
      id="text23"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-anchor:middle;fill:#000000">PSNV</text>
@@ -104,7 +107,7 @@
      font-size="200%"
      dominant-baseline="bottom"
      x="127.41667"
-     y="226.30798"
+     y="227.61719"
      id="text23-0"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-anchor:middle;fill:#000000">SEG PSNV</text>
 </svg>

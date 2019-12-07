@@ -37,7 +37,7 @@
      inkscape:window-height="715"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="2.140625"
+     inkscape:zoom="2.1328125"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
@@ -64,31 +64,34 @@
          id="rect4" />
     </clipPath>
   </defs>
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="#FFFFFF"
-     stroke="#000000"
-     stroke-width="10"
-     clip-path="url(#symbol)"
-     id="rect9" />
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="none"
-     stroke="#000000"
-     stroke-width="1"
-     id="rect11" />
-  <path
-     d="M128,64 l0,128 M10,128 l236,0"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path13" />
+  <g
+     id="g4501">
+    <rect
+       id="rect9"
+       clip-path="url(#symbol)"
+       stroke-width="10"
+       stroke="#000000"
+       fill="#FFFFFF"
+       height="128"
+       width="236"
+       y="64"
+       x="10" />
+    <rect
+       id="rect11"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none"
+       height="128"
+       width="236"
+       y="64"
+       x="10" />
+    <path
+       id="path13"
+       fill="none"
+       stroke-width="5"
+       stroke="#000000"
+       d="M128,64 l0,128 M10,128 l236,0" />
+  </g>
   <ellipse
      cx="64"
      cy="48"
@@ -113,4 +116,26 @@
      x="22"
      y="70"
      id="text19" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DIN 1451 Std';-inkscape-font-specification:'DIN 1451 Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="53.041668"
+     y="227.61719"
+     id="text4504-6"><tspan
+       sodipodi:role="line"
+       id="tspan4502-8"
+       x="53.041668"
+       y="227.61719"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG San</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="19.610678"
+     y="95.699219"
+     id="text4497"><tspan
+       sodipodi:role="line"
+       id="tspan4495"
+       x="19.610678"
+       y="95.699219"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">SEG</tspan></text>
 </svg>

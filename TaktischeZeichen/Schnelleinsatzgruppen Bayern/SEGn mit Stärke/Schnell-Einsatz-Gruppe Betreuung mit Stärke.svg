@@ -37,7 +37,7 @@
      inkscape:window-height="715"
      id="namedview27"
      showgrid="false"
-     inkscape:zoom="2.140625"
+     inkscape:zoom="2.1328125"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="-8"
@@ -64,25 +64,6 @@
          id="rect4" />
     </clipPath>
   </defs>
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="#FFFFFF"
-     stroke="#000000"
-     stroke-width="10"
-     clip-path="url(#symbol)"
-     id="rect9" />
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="none"
-     stroke="#000000"
-     stroke-width="1"
-     id="rect11" />
   <ellipse
      cx="64"
      cy="48"
@@ -107,21 +88,38 @@
      x="128"
      y="128"
      id="text17" />
-  <rect
-     x="10"
-     y="64"
-     width="236"
-     height="128"
-     fill="#FFFFFF"
-     stroke="#000000"
-     stroke-width="5"
-     id="rect19" />
-  <path
-     d="M10,192 L128,66 L246,192"
-     stroke="#000000"
-     stroke-width="5"
-     fill="none"
-     id="path21" />
+  <g
+     id="g4497"
+     transform="matrix(0.98340101,0,0,0.96993877,2.1832796,3.7889269)"
+     style="stroke-width:5.11955881;stroke-miterlimit:4;stroke-dasharray:none">
+    <rect
+       id="rect9"
+       clip-path="url(#symbol)"
+       height="128"
+       width="236"
+       y="64"
+       x="10"
+       style="fill:#ffffff;stroke:#000000;stroke-width:5.11955881;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       id="rect11"
+       height="128"
+       width="236"
+       y="64"
+       x="10"
+       style="fill:none;stroke:#000000;stroke-width:5.11955881;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       id="rect19"
+       height="128"
+       width="236"
+       y="64"
+       x="10"
+       style="fill:#ffffff;stroke:#000000;stroke-width:5.11955881;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path21"
+       d="M 10,192 128,66 246,192"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5.11955881;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
   <text
      font-size="200%"
      dominant-baseline="bottom"
@@ -133,7 +131,7 @@
      font-size="200%"
      dominant-baseline="bottom"
      x="127.53516"
-     y="228.05049"
+     y="227.61719"
      id="text23-8"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333206px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-anchor:middle;fill:#000000">SEG Bt</text>
 </svg>
