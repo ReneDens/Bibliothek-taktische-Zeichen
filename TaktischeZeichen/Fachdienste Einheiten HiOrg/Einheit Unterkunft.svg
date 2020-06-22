@@ -11,7 +11,7 @@
    width="256"
    height="256"
    id="svg25"
-   sodipodi:docname="Einheit Verpflegung.svg"
+   sodipodi:docname="Einheit Unterkunft.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata29">
@@ -64,6 +64,25 @@
          id="rect4" />
     </clipPath>
   </defs>
+  <rect
+     x="10"
+     y="64"
+     width="236"
+     height="128"
+     fill="#FFFFFF"
+     stroke="#000000"
+     stroke-width="10"
+     clip-path="url(#symbol)"
+     id="rect9" />
+  <rect
+     x="10"
+     y="64"
+     width="236"
+     height="128"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     id="rect11" />
   <!-- Texte -->
   <text
      font-size="300%"
@@ -76,20 +95,22 @@
      id="text17" />
   <rect
      x="10"
-     y="64.025772"
+     y="64"
      width="236"
      height="128"
-     id="rect19"
-     style="fill:#ffffff;stroke:#000000;stroke-width:5" />
+     fill="#FFFFFF"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect19" />
   <path
      d="M10,192 L128,66 L246,192"
-     id="path21"
-     stroke-width="5"
      stroke="#000000"
-     fill="none" />
+     stroke-width="5"
+     fill="none"
+     id="path21" />
   <path
      inkscape:connector-curvature="0"
      style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 125.26804,128.02576 158.60159,111.359 a 33.333549,33.333549 0 1 0 0,33.33354 z"
-     id="path17" />
+     d="m 79.269037,183.38071 v -50.76143 m 97.461923,50.76143 v -50.76143 m -97.461922,35.533 h 97.461922 m -97.461922,0 a 48.730966,24.365483 0 0 1 97.461922,0"
+     id="path15" />
 </svg>
