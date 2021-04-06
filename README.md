@@ -8,6 +8,7 @@ Please post [issues](https://github.com/ReneDens/Bibliothek-taktische-Zeichen/is
 
 ## Lizenz
 
-[Creative Commons Attribution 4.0 International License][cc-by]
+Creative Commons Attribution 4.0 International License
+cc-by
 
 [![CC BY 4.0][cc-by-image]][cc-by]
